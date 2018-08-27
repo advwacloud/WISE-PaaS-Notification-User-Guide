@@ -1,5 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [功能說明](functions.md)
+* [Functions](functions.md)
+  * [Notification Group](functions/notification-group.md)
+    * [LINE](functions/notification-group/line.md)
 
