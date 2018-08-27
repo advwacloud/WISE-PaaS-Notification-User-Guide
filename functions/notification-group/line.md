@@ -2,9 +2,6 @@
 
 ---
 
-支援LINE Notify推播通知。
-
-
 ### 加入LINE Notify為好友
 
 掃描以下QR Code將LINE Notify加入好友，方能使用LINE Notify的推播功能。
