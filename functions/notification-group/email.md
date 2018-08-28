@@ -16,3 +16,8 @@
 
 以Gmail為例:
 ![](/assets/email_setting_gmail.png)
+
+
+![](/assets/email_add_member1.png)
+
+![](/assets/email_add_member2.png)

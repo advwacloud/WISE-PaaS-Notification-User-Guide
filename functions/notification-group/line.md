@@ -25,3 +25,9 @@
 
 ![](/assets/line_token.png)
 
+
+### 增加 通知人員
+
+![](/assets/line_add_member1.png)
+
+![](/assets/line_add_member2.png)
