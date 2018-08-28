@@ -17,6 +17,7 @@
 以Gmail為例:
 ![](/assets/email_setting_gmail.png)
 
+### 增加 通知人員
 
 ![](/assets/email_add_member1.png)
 
