@@ -3,7 +3,7 @@
 ---
 支援E-Mail通知。使用者可以使用自己架設的郵件伺服器或是第三方公司(Google, Microsoft)提供的郵件服務。
 
-### 參數說明
+### E-mail Service Setting 參數說明
 
 | Parameter      | Description    |
 | -------------- | -------------- |
