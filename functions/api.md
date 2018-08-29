@@ -50,6 +50,8 @@
 
 \[POST\] /Groups/send
 
+發送通知給特定的通知群組。\(支援一次發送給多個通知群組\)
+
 * Request Body
 
 ```
