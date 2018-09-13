@@ -5,4 +5,5 @@
   * [Notification Group](functions/notification-group.md)
     * [E-mail](functions/notification-group/email.md)
     * [LINE](functions/notification-group/line.md)
+  * [Notify](functions/notify.md)
   * [API](functions/api.md)
