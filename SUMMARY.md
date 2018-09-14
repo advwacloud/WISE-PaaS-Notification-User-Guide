@@ -7,3 +7,5 @@
     * [LINE](functions/notification-group/line.md)
   * [Notify](functions/notify.md)
   * [API](functions/api.md)
+  * [通知](functions/tong-zhi.md)
+
