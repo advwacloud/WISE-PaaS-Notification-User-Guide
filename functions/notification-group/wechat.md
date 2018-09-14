@@ -15,6 +15,9 @@
 ### 增加部門
 
 1. 點選"通訊錄"
+
+![](/assets/wechat_business_contact.png)
+
 2. 點選"添加部門"
 
 ![](/assets/wechat_business_add_party.png)
@@ -25,7 +28,7 @@
 
 4. 點選"..."圖示，取得部門ID
 
-![](/assets/wecaht_business_party_info.png)
+![](/assets/wechat_business_party_info.png)
 
 
 ### 增加使用者
@@ -34,25 +37,27 @@
 
 ![](/assets/wechat_business_add_user.png)
 
-### 取得LINE Token
+2. 填入基本資料，並選擇"部門" (可多選)
 
-1. 登入LINE Notify官方網頁 [https://notify-bot.line.me/my/](https://notify-bot.line.me/my/)
+![](/assets/wechat_business_user_info.png)
 
-2. 產生一組token
+### 新增應用
 
-![](/assets/line_my.png)
+1. 點選"應用與小程序"
+2. 點選"創建應用"建立新的應用
 
-3. 輸入token名稱和選擇一個通知群組後按下Generate token。(若選擇的通知群組不是1-on-1 chat with LINE Notify，則必須先把LINE Notify加入到群組內才會有效)
+![](/assets/wechat_business_add_application.png)
 
-![](/assets/line_generate_token.png)
+3. 填入應用資料
 
-4. 將token填入Member List。(token請妥善保管，無法取得舊的必須重新申請)
+![](/assets/wechat_business_input_application.png)
 
-![](/assets/line_token.png)
+4. 取得agentId和agentSecret
 
+![](/assets/wechat_business_application_info.png)
 
-### 增加 通知人員
+### 取得cropId
 
-![](/assets/line_add_member1.png)
+1. 點選"我的企業"，並取得企業ID
 
-![](/assets/line_add_member2.png)
+![](/assets/wechat_business_info.png)
