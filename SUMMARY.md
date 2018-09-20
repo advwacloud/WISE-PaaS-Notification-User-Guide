@@ -8,4 +8,3 @@
     * [Wechat](functions/notification-group/wechat.md)
   * [Notify](functions/notify.md)
   * [API](functions/api.md)
-
