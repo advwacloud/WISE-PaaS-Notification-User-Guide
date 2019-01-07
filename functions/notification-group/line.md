@@ -18,11 +18,11 @@ Scan the following QR Code to add LINE Notify as your friend to use the notifica
 
 ![](/assets/line_my.png)
 
-1. Enter the token name and select a notification group and press Generate token. \(If the selected notification group is not 1-on-1 chat with LINE Notify, you must first add LINE Notify to the group.\)
+3. Enter the token name and select a notification group and press Generate token. \(If the selected notification group is not 1-on-1 chat with LINE Notify, you must first add LINE Notify to the group.\)
 
 ![](/assets/line_generate_token.png)
 
-1. Fill in the token into the Member List. \(please keep the token safely, you cannot get the old one and must regenerate.\)
+4. Fill in the token into the Member List. \(please keep the token safely, you cannot get the old one and must regenerate.\)
 
 ![](/assets/line_token.png)
 
