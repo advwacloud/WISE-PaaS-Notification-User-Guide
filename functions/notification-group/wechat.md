@@ -2,6 +2,8 @@
 
 ---
 
+ Support for WeChat notifications.
+
 ### 註冊企業微信
 
 ### 登入Wechat\(企業微信\)
