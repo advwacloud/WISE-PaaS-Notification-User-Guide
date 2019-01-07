@@ -45,11 +45,11 @@ Get the group list that you have permission to access.
 }
 ```
 
-### 發送通知
+### Send notification
 
 \[POST\] /Groups/send
 
-發送通知給特定的通知群組。\(支援一次發送給多個通知群組\)
+Send notifications to specific groups. \(Support for sending to multiple groups at once\)
 
 * Request Body
 
