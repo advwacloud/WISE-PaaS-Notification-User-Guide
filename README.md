@@ -2,9 +2,5 @@
 
 ---
 
-WISE-PaaS Notification 是一個訊息推播服務，主要是提供給各 SRP 整合使用。使用者可以透過 Notification API 來發送 E-mail, LINE, Wechat 或是呼叫其他系統的API，達到即時訊息通知的目的。
-
-
-
-
+WISE-PaaS Notification is a messaging service that is primarily for integration with SRPs. Users can send E-mail, LINE, WeChat, and call third-party APIs through the WISE-PaaS Notification API to achieve instant message notification.
 
