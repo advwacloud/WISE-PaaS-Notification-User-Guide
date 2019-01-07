@@ -1,24 +1,28 @@
 # Notification - Email
 
 ---
-支援E-Mail通知。使用者可以使用自己架設的郵件伺服器或是第三方公司(Google, Microsoft)提供的郵件服務。
 
-### E-mail Service Setting 參數說明
+Support for Email notifications. Users can use their own mail server or mail service provided by a third-party company \(Google, Microsoft\).
 
-| Parameter      | Description    |
-| -------------- | -------------- |
-| SMTP Server    | 郵件伺服器位址  |
-| SMTP Port      | 郵件伺服器Port (根據SSL或TLS有所不同) |
-| SMTP Account   | 郵件伺服器帳號  |
-| SMTP Password  | 郵件伺服器密碼  |
-| Sender Email   | 通知送件人Email |
-| E-Mail Subject | 通知郵件主旨    |
+### E-mail Service Setting Parameters
 
-以Gmail為例:
+| Parameter | Description |
+| --- | --- |
+| SMTP Server | Mail server IP address. |
+| SMTP Port | Mail server Port. \(Depending on SSL or TLS\) |
+| SMTP Account | Mail server account. |
+| SMTP Password | Mail server password. |
+| Sender Email | The Email address of sender. |
+| E-Mail Subject | Email subject. |
+
+
+
+For example \(Gmail setting\):  
 ![](/assets/email_setting_gmail.png)
 
-### 增加 通知人員
+### Add a Member
 
 ![](/assets/email_add_member1.png)
 
 ![](/assets/email_add_member2.png)
+
