@@ -2,32 +2,33 @@
 
 ---
 
-### 加入LINE Notify為好友
+Support for LINE notifications.
 
-掃描以下QR Code將LINE Notify加入好友，方能使用LINE Notify的推播功能。
+### Add LINE Notify as a friend
+
+Scan the following QR Code to add LINE Notify as your friend to use the notification service of LINE Notify.
 
 ![](/assets/line_notify.png)
 
+### Get LINE Token
 
-### 取得LINE Token
+1. Login to LINE Notify official website. [https://notify-bot.line.me/my/](https://notify-bot.line.me/my/)
 
-1. 登入LINE Notify官方網頁 [https://notify-bot.line.me/my/](https://notify-bot.line.me/my/)
-
-2. 產生一組token
+2. Generate a new token.
 
 ![](/assets/line_my.png)
 
-3. 輸入token名稱和選擇一個通知群組後按下Generate token。(若選擇的通知群組不是1-on-1 chat with LINE Notify，則必須先把LINE Notify加入到群組內才會有效)
+1. Enter the token name and select a notification group and press Generate token. \(If the selected notification group is not 1-on-1 chat with LINE Notify, you must first add LINE Notify to the group.\)
 
 ![](/assets/line_generate_token.png)
 
-4. 將token填入Member List。(token請妥善保管，無法取得舊的必須重新申請)
+1. Fill in the token into the Member List. \(please keep the token safely, you cannot get the old one and must regenerate.\)
 
 ![](/assets/line_token.png)
 
-
-### 增加 通知人員
+### Add a Member
 
 ![](/assets/line_add_member1.png)
 
 ![](/assets/line_add_member2.png)
+
