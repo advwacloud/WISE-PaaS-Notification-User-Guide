@@ -2,49 +2,43 @@
 
 ---
 
-使用者可以透過Notification Group(通知群組)，將被通知人員進行分類，例如：A工廠和B工廠各有自己的通知群組，可達到通知分群的目的。
-
-* 已支援通知服務
-  * E-mail
-  * LINE
+Users can classify the notified personnel through the Notification Group. For example, the A factory and the B factory each have their own notification group that are not affected by each other.
 
 
-### 通知群組列表
+
+### Notification Group List
 
 ![](/assets/notify_home_nodata.png)
 
 ![](/assets/notify_group_list.png)
 
-### 增加通知群組(以E-mail為例)
+### Create a Notification Group \(E-mail\)
 
-Basic Info: Group基本設定，Group Name和Service Type為必填。
-
-Service Setting: 根據Service Type有所不同，請參考各通知服務說明。
-
-Member List: 被通知人列表，First Name和Last Name作為識別使用，第三個欄位根據Service Type有所不同，請參考各通知服務說明。
+* Basic Info: the basic setting of group, Group Name and Service Type are required.
+* Service Setting: According to Service Type, please refer to the corresponding chapter.
+* Member List: The list of notified persons, First Name and Last Name are used for identification, and the third field is different according to Service Type. Please refer to the corresponding chapter.
 
 ![](/assets/notify_email.png)
 
-### 複製通知群組
+### Duplicate a Notification Group
 
-點選欲複製之通知群組的複製圖示(Duplicate)，即可進入新增頁面。會沿用原通知群組之設定，使用者只需要修改不同的部分即可，按下Save按鈕即可另存成另一個新的通知群組。
+Click the Duplicate button of the notification group you want to duplicate, you will redirect to a new page. The original notification setting will be kept. User only needs to modify different parts. Press the Save button to save it as another new notification group.
 
 ![](/assets/notify_group_dupbutton.png)
 
 ![](/assets/notify_group_duplicate.png)
 
-### 修改通知群組
+### Edit a Notification Group
 
-點選欲修改之通知群組，即可進入修改頁面進行修改。
+Click the notification group name you want to modify.
 
 ![](/assets/notify_group_updatebutton.png)
 
 ![](/assets/notify_group_update.png)
 
-### 刪除通知群組
+### Delete a Notification Group
 
-勾選欲刪除通知群組，即可點擊右上的刪除按鈕進行刪除。
+Check the notification group that you want to delete, then click the delete button on the upper right to delete it.
 
 ![](/assets/notify_group_delete.png)
-
 
