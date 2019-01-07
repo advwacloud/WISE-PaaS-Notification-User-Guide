@@ -1,24 +1,26 @@
 # Notify
 
 ---
-目前提供使用者兩種方式通知方式：
+
+Currently, provide user two way of notification:
+
 * API
-* MQTT/AMQP
+* MQTT
 
 ### API
-請參考API章節中的發送通知
 
-### MQTT/AMQP
+Please refer chapter API.
+
+### MQTT
 
 MQTT topic:
+
 ```
 /wisepaas/notify/send
 ```
-AMQP topic:
-```
-.wisepaas.notify.send
-```
+
 json format:
+
 ```
 [
   {
@@ -28,3 +30,6 @@ json format:
   }
 ]
 ```
+
+
+
