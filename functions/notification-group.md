@@ -8,9 +8,7 @@ Users can classify the notified personnel through the Notification Group. For ex
 
 ### Notification Group List
 
-![](/assets/notify_home_nodata.png)
-
-![](/assets/notify_group_list.png)
+![](/assets/group_list.png)
 
 ### Create a Notification Group \(E-mail\)
 
@@ -24,21 +22,21 @@ Users can classify the notified personnel through the Notification Group. For ex
 
 Click the Duplicate button of the notification group you want to duplicate, you will redirect to a new page. The original notification setting will be kept. User only needs to modify different parts. Press the Save button to save it as another new notification group.
 
-![](/assets/notify_group_dupbutton.png)
+![](/assets/group_dupbutton.png)
 
-![](/assets/notify_group_duplicate.png)
+![](/assets/group_duplicate.png)
 
 ### Edit a Notification Group
 
 Click the notification group name you want to modify.
 
-![](/assets/notify_group_updatebutton.png)
+![](/assets/group_editbutton.png)
 
-![](/assets/notify_group_update.png)
+![](/assets/group_edit.png)
 
 ### Delete a Notification Group
 
 Check the notification group that you want to delete, then click the delete button on the upper right to delete it.
 
-![](/assets/notify_group_delete.png)
+![](/assets/group_delete.png)
 

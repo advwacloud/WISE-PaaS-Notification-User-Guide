@@ -23,3 +23,7 @@ Users can customize the frequency and the number of notifications sent each time
 ### Edit Level
 
 ![](/assets/edit_level.png)
+
+### Group Bind Level
+
+![](/assets/group_level.png)
