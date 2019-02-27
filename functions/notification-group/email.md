@@ -17,7 +17,7 @@ Support for Email notifications. Users can use their own mail server or mail ser
 | E-Mail Subject | Email subject. |
 
 For example \(Gmail setting\):  
-![](/assets/email_setting_gmail.png)
+![](/assets/email_setting.png)
 
 ### Add a Member
 
