@@ -9,13 +9,12 @@ Support for Email notifications. Users can use their own mail server or mail ser
 | Parameter | Description |
 | --- | --- |
 | SMTP Server | Mail server IP address. |
-| SMTP Port | Mail server Port. \(Depending on SSL or TLS\) |
+| SMTP Port | Mail server Port. |
+| Secure | SSL or TLS |
 | SMTP Account | Mail server account. |
 | SMTP Password | Mail server password. |
 | Sender Email | The Email address of sender. |
 | E-Mail Subject | Email subject. |
-
-
 
 For example \(Gmail setting\):  
 ![](/assets/email_setting_gmail.png)
