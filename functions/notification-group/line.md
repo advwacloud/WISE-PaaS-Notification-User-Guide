@@ -26,6 +26,27 @@ Scan the following QR Code to add LINE Notify as your friend to use the notifica
 
 ![](/assets/line_token.png)
 
+### Group Level
+Choose a defined level according to your notification strategy. Default is "Critical" means notifying message in time.
+
+### Templcate
+Support `Text` content. You can pre-define your message template here. When you call `/send` API, you don't need to send entire message string every time, just send the variables.
+
+For example, we pre-define a sentence contains a variable {name}.
+
+![](/assets/line_template1.png)
+
+So, when you call `/send` API, you just need to send the following body, you will receive a LINE message with entire message.
+```
+[
+  {
+    "groupId": "yer8agvrjl4b",
+    "useTemplate": true,
+    "variables": {"name": "Steven"}
+  }
+]
+```
+
 ### Add a Member
 
 ![](/assets/line_add_member1.png)

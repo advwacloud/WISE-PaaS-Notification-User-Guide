@@ -49,6 +49,28 @@
 
 ![](/assets/wechat_business_info.png)
 
+
+### Group Level
+Choose a defined level according to your notification strategy. Default is "Critical" means notifying message in time.
+
+### Templcate
+Support `Text` content. You can pre-define your message template here. When you call `/send` API, you don't need to send entire message string every time, just send the variables.
+
+For example, we pre-define a sentence contains a variable {name}.
+
+![](/assets/wechat_template1.png)
+
+So, when you call `/send` API, you just need to send the following body, you will receive a WeChat message with entire message.
+```
+[
+  {
+    "groupId": "yer8agvrjl4b",
+    "useTemplate": true,
+    "variables": {"name": "Steven"}
+  }
+]
+```
+
 ### 增加通知人員
 
 1. 填上上述取得的agentId, agentSecret和cropId
