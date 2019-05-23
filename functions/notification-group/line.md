@@ -36,7 +36,7 @@ Support `Text` content. You can pre-define your message template here. When you 
 
 For example, we pre-define a sentence contains a variable {name}.
 
-![](/assets/line_template1.png)
+![](/assets/text_template.png)
 
 So, when you call `/send` API, you just need to send the following body, you will receive a LINE message with entire message.
 

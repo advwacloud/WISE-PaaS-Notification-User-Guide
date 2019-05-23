@@ -59,7 +59,7 @@ Support `Text` content. You can pre-define your message template here. When you 
 
 For example, we pre-define a sentence contains a variable {name}.
 
-![](/assets/wechat_template1.png)
+![](/assets/text_template.png)
 
 So, when you call `/send` API, you just need to send the following body, you will receive a WeChat message with entire message.
 
@@ -73,13 +73,13 @@ So, when you call `/send` API, you just need to send the following body, you wil
 ]
 ```
 
-### 增加通知人員
+### Add a Member
 
-1. 填上上述取得的agentId, agentSecret和cropId
+1. Fill in agentId, agentSecret, and cropId
 
 ![](/assets/wechat_business_add_member1.png)
 
-1. 填上上述取得的使用者ID\(userId\)
+1. Fill in userId
 
 ![](/assets/wechat_business_add_member2.png)
 
