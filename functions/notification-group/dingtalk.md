@@ -20,8 +20,8 @@ DingTalk official website [https://www.dingtalk.com](https://www.dingtalk.com/)
 
 ![](/assets/dingtalk_createapp2.png)
 
-[註1] 服務器公網出口IP名單請填入WISE-PaaS平台的Public IP. (依據平台所在地而有所不同, 若不清楚請詢問平台相關人員)
 ![](/assets/dingtalk_createapp3.png)
+[註1] 服務器公網出口IP名單請填入WISE-PaaS平台的Public IP. (依據平台所在地而有所不同, 若不清楚請詢問平台相關人員)
 
 ### Get DingTalk Setting
 ![](/assets/dingtalk_appinfo1.png)
