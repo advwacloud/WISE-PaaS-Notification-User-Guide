@@ -2,7 +2,7 @@
 
 ---
 
-Support for Email notifications. Users can use their own mail server or mail service provided by a third-party company \(Google, Microsoft\).
+Support Email notifications. Users can use their own mail server or mail service provided by a third-party company \(Google, Microsoft\).
 
 ### E-mail Service Setting Parameters
 
@@ -20,9 +20,11 @@ For example \(Gmail setting\):
 ![](/assets/email_setting.png)
 
 ### Group Level
+
 Choose a defined level according to your notification strategy. Default is "Critical" means notifying message in time.
 
 ### Templcate
+
 Support `HTML` and `Text` content. You can pre-define your message template here. When you call `/send` API, you don't need to send entire message string every time, just send the variables.
 
 For example, we pre-define a sentence contains a variable {cocktail} and a picture.
@@ -30,6 +32,7 @@ For example, we pre-define a sentence contains a variable {cocktail} and a pictu
 ![](/assets/email_template1.png)
 
 So, when you call `/send` API, you just need to send the following body, you will receive a email with entire message.
+
 ```
 [
   {
@@ -42,12 +45,11 @@ So, when you call `/send` API, you just need to send the following body, you wil
 
 ![](/assets/email_template2.png)
 
-
 ### Add a Member
 
 ![](/assets/email_add_member1.png)
 
-You can assign the recipient type (To/CC/BCC) to a new member.
+You can assign the recipient type \(To/CC/BCC\) to a new member.
 
 ![](/assets/email_add_member2.png)
 

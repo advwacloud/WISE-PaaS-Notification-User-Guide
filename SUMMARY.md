@@ -7,6 +7,7 @@
     * [LINE](functions/notification-group/line.md)
     * [WeChat](functions/notification-group/wechat.md)
     * [Webhook](functions/notification-group/webhook.md)
+    * [DingTalk](functions/notification-group/dingtalk.md)
   * [Notification Level](functions/notification-level.md)
   * [Notify](functions/notify.md)
   * [API](functions/api.md)

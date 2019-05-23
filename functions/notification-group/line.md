@@ -2,7 +2,7 @@
 
 ---
 
-Support for LINE notifications.
+Support LINE notifications.
 
 ### Add LINE Notify as a friend
 
@@ -18,18 +18,20 @@ Scan the following QR Code to add LINE Notify as your friend to use the notifica
 
 ![](/assets/line_my.png)
 
-3. Enter the token name and select a notification group and press Generate token. \(If the selected notification group is not 1-on-1 chat with LINE Notify, you must first add LINE Notify to the group.\)
+1. Enter the token name and select a notification group and press Generate token. \(If the selected notification group is not 1-on-1 chat with LINE Notify, you must first add LINE Notify to the group.\)
 
 ![](/assets/line_generate_token.png)
 
-4. Fill in the token into the Member List. \(please keep the token safely, you cannot get the old one and must regenerate.\)
+1. Fill in the token into the Member List. \(please keep the token safely, you cannot get the old one and must regenerate.\)
 
 ![](/assets/line_token.png)
 
 ### Group Level
+
 Choose a defined level according to your notification strategy. Default is "Critical" means notifying message in time.
 
 ### Templcate
+
 Support `Text` content. You can pre-define your message template here. When you call `/send` API, you don't need to send entire message string every time, just send the variables.
 
 For example, we pre-define a sentence contains a variable {name}.
@@ -37,6 +39,7 @@ For example, we pre-define a sentence contains a variable {name}.
 ![](/assets/line_template1.png)
 
 So, when you call `/send` API, you just need to send the following body, you will receive a LINE message with entire message.
+
 ```
 [
   {
