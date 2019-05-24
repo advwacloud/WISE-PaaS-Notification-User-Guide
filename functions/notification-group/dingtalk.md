@@ -45,7 +45,7 @@ For example, we pre-define a sentence contains a variable {name}.
 
 ![](/assets/text_template.png)
 
-So, when you call `/send` API, you just need to send the following body, you will receive a WeChat message with entire message.
+So, when you call `/send` API, you just need to send the following body, you will receive a DingTalk notification with entire message.
 
 ```
 [
