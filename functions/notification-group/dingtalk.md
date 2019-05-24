@@ -6,32 +6,31 @@ Support DingTalk notifications.
 
 ### 
 
-### 註冊釘釘
+### Register an account
 
 DingTalk official website [https://www.dingtalk.com](https://www.dingtalk.com/)
 
 ![](/assets/dingtalk_register.png)
 
-完成註冊程序後登入釘釘
-![](/assets/dingtalk_home.png)
+### Login ![](/assets/dingtalk_home.png)
 
-點選工作台 --> 建立E應用
-![](/assets/dingtalk_createapp1.png)
+### Create an application![](/assets/dingtalk_createapp1.png)
 
 ![](/assets/dingtalk_createapp2.png)
 
-![](/assets/dingtalk_createapp3.png)
-[註1] 服務器公網出口IP名單請填入WISE-PaaS平台的Public IP. (依據平台所在地而有所不同, 若不清楚請詢問平台相關人員)
+![](/assets/dingtalk_createapp3.png)  
+\[註1\] 服務器公網出口IP名單請填入WISE-PaaS平台的Public IP. \(依據平台所在地而有所不同, 若不清楚請詢問平台相關人員\)
 
 ### Get DingTalk Setting
+
 ![](/assets/dingtalk_appinfo1.png)
 
 ![](/assets/dingtalk_getsetting.png)
 
-Get UserId
+Get UserId  
 ![](/assets/dingtalk_getuserId.png)
 
-Get DepartmentId
+Get DepartmentId  
 ![](/assets/dingtalk_getdeptId.png)
 
 ### Group Level
