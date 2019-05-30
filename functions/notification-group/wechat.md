@@ -14,20 +14,6 @@ Support WeChat notifications.
 ![](/assets/wechat_business_login.png)  
 ![](/assets/wechat_business_login_qrcode.png)
 
-### 增加使用者
-
-1. 點選"添加成員"
-
-![](/assets/wechat_business_add_user.png)
-
-1. 填入基本資料
-
-![](/assets/wechat_business_user_info.png)
-
-1. 取得userId
-
-![](/assets/wechat_business_userId.png)
-
 ### 新增應用
 
 1. 點選"應用與小程序"
@@ -35,11 +21,11 @@ Support WeChat notifications.
 
 ![](/assets/wechat_business_add_application.png)
 
-1. 填入應用資料
+3. 填入應用資料
 
 ![](/assets/wechat_business_input_application.png)
 
-1. 取得agentId和agentSecret
+4. 取得agentId和agentSecret
 
 ![](/assets/wechat_business_application_info.png)
 
@@ -48,6 +34,49 @@ Support WeChat notifications.
 1. 點選"我的企業"，並取得企業ID
 
 ![](/assets/wechat_business_info.png)
+
+### 增加使用者
+
+1. 點選"添加成員"
+
+![](/assets/wechat_business_add_user.png)
+
+2. 填入基本資料
+
+![](/assets/wechat_business_user_info.png)
+
+3. 取得userId
+
+![](/assets/wechat_business_userId.png)
+
+### 增加部門
+
+1. 點選"添加部門"
+
+![](/assets/wechat_business_add_party.png)
+
+2. 填入基本資料
+
+![](/assets/wechat_business_party_info.png)
+
+3. 取得部門Id
+
+![](/assets/wechat_business_partyId.png)
+
+### 增加標籤
+
+1. 點選"添加標籤"
+
+![](/assets/wechat_business_add_tag.png)
+
+2. 填入基本資料
+
+![](/assets/wechat_business_tag_info.png)
+
+3. 取得標籤Id
+
+![](/assets/wechat_business_tagId1.png)
+![](/assets/wechat_business_tagId2.png)
 
 ### Group Level
 
@@ -79,7 +108,7 @@ So, when you call `/send` API, you just need to send the following body, you wil
 
 ![](/assets/wechat_business_add_member1.png)
 
-1. Fill in userId
+1. Fill in userId and recipient type
 
 ![](/assets/wechat_business_add_member2.png)
 
