@@ -4,24 +4,25 @@
 
 * Current Version: V1.5
 
-### API 1.0/1.5差異
+### Difference between V1.0 and V1.5
 
-* 客製化訊息範本
+* Custom message template
   * v1.0
-    * 無
+    * No
   * v1.5
-    * 支援
-* Email支援CC和BCC
+    * Yes
+* Email notification - Recipient type CC and BCC
   * v1.0
-    * 無
+    * No
   * v1.5
-    * 支援
-* Group Type數字改成文字
+    * Yes
+* Group Type
   * v1.0
     * ex. "type": 2
   * v1.5
     * "ex. type":"line"
-* Send API request body結構修改
+* Send API request body
+
   * v1.0
 
   ```
@@ -45,14 +46,15 @@
       "variables": {}
     }
   ]
-
   ```
-* 拿掉send API subject欄位
+
+* Remove the parameter "subject" of send API
   * v1.0
     * "subject": "string"
   * v1.5
-    * 拿掉此欄位
-* sendList裡的webhookCfg內容移到上一層, 並拿掉webhookCfg物件
+    * Removed
+* Modify the structure of the parameter "sendList" of APIs
+
   * v1.0
 
   ```
@@ -84,21 +86,23 @@
     "body": {}
   }]
   ```
-* sendList的method從數字改成文字
+
+* SendList method
   * v1.0
     * method: 1
   * v1.5
     * method: 'get'
-* level的unit/expUnit從數字型態改成文字
+* The parameter "unit" and "expUnit" of Level API
+
   * v1.0
 
   ```
   {
     "name": "test",
-    "unit": 1,
+    "unit": 1,  // interger
     "intervalTime": 45,
     "expTime": 6,
-    "expUnit": 3,
+    "expUnit": 3,  // interger
     "batchCount": 1
   }
   ```
@@ -108,10 +112,10 @@
   ```
   {
     "name": "test",
-    "unit": "second",
+    "unit": "second",  // string
     "intervalTime": 45,
     "expTime": 6,
-    "expUnit": "hour",
+    "expUnit": "hour",  // string
     "batchCount": 1
   }
   ```
