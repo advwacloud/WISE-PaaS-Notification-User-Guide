@@ -4,7 +4,7 @@
 
 Wassenger is WhatsApp Cloud API, and we choose Wassenger for support WhatsApp notification function
 
-WhatsApp website: [https://www.whatsapp.com/](https://www.whatsapp.com/)    \(and here skip the WhatsApp register process\)     
+WhatsApp website: [https://www.whatsapp.com/](https://www.whatsapp.com/)    \(and here skip the WhatsApp register process\)
 
 wassenger website: [https://console.wassenger.com/](https://console.wassenger.com/)
 
@@ -42,7 +42,7 @@ connect device or message cant's publish successfully
 
 ## 
 
-## Please, pick up your device and open WhatsApp Web menu option.
+Please pic up your devices and open WhatsApp Web menu option.
 
 ![](/assets/QRcode.png)
 
