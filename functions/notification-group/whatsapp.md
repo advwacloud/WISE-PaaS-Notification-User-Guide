@@ -4,11 +4,11 @@
 
 Wassenger is WhatsApp Cloud API, and we choose Wassenger for support WhatsApp notification function
 
-WhatsApp website: [https://www.whatsapp.com/](https://www.whatsapp.com/)
+WhatsApp website: [https://www.whatsapp.com/](https://www.whatsapp.com/)    \(and here skip the WhatsApp register process\)     
 
 wassenger website: [https://console.wassenger.com/](https://console.wassenger.com/)
 
-\(Note: Register an account for used first, and here skip the WhatsApp register process\)
+\(Note: Register an account for used first\)
 
 ### Wassenger- WhatsApp Cloud API
 
