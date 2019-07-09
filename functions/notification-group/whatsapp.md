@@ -28,9 +28,11 @@ re-login when register completely
 
 ![](/assets/device_status.png)
 
-get the API keys to Notification 
+get the API keys to Notification
 
 ![](/assets/API_key.png)
+
+### Notification- WhatsApp 
 
 type into the Wassenger Token
 
