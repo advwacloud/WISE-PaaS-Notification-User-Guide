@@ -40,7 +40,15 @@ connect device or message cant's publish successfully
 
 ![](/assets/Devicepairing.png)
 
+## 
+
 ## Please, pick up your device and open WhatsApp Web menu option.
+
+![](/assets/QRcode.png)
+
+
+
+
 
 Device connected. Status would show 'Green'
 
