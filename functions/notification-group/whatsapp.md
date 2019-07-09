@@ -16,7 +16,9 @@ create new account
 
 ![](/assets/createnewaccount.png)
 
-choose the plan: Send & receive messages
+log in screenshot ![](/assets/Device_authorization1.png)
+
+at the Device tag to choose the plan: Send & receive messages
 
 \(by the request to choose the product you need, and we used 'Send & receive messages'  for example \)
 
@@ -54,11 +56,9 @@ get the API keys to Notification
 
 type into the Wassenger Token and fill in other information
 
-"+" icon to create 
+"+" icon to create WhatsApp Group
 
-
-
-![](/assets/notification_connected.png)
+![](/assets/notification2.png)![](/assets/notification_connected.png)
 
 Fill in the  member list info : setup the member who would receive the notification
 
