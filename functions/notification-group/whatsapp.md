@@ -46,7 +46,7 @@ connect device or message cant's publish successfully
 
 ![](/assets/QRcode.png)
 
-
+![](/assets/deviceauthority1.png)
 
 
 
