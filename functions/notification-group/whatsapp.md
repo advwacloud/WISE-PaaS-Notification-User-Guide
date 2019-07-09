@@ -48,8 +48,6 @@ connect device or message cant's publish successfully
 
 ![](/assets/deviceauthority1.png)
 
-
-
 Device connected. Status would show 'Green'
 
 ![](/assets/device_status.png)
@@ -57,6 +55,8 @@ Device connected. Status would show 'Green'
 get the API keys to Notification
 
 [https://portal-notification-adviiot-webacces-scada.wise-paas.com/\#/Groups](https://portal-notification-adviiot-webacces-scada.wise-paas.com/#/Groups)
+
+Security notice: Do not share or publicly expose the API keys with 3rd party users or websites!
 
 ![](/assets/API_key.png)
 
