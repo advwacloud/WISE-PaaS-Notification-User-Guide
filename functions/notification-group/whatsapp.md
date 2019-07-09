@@ -16,15 +16,13 @@ create new account
 
 ![](/assets/createnewaccount.png)
 
-
-
 choose the plan: Send & receive messages
 
 \(by the request to choose the product you need, and we used 'Send & receive messages'  for example \)
 
 ![](/assets/pickuptheproduct.png)
 
-and the next step is to choose monthly plan 
+and the next step is to choose monthly plan
 
 \(by the request to choose the product you need, and we choose the Enterprise for example\)
 
@@ -56,7 +54,9 @@ get the API keys to Notification
 
 type into the Wassenger Token and fill in other information
 
-the highlight means
+"+" icon to create 
+
+
 
 ![](/assets/notification_connected.png)
 
