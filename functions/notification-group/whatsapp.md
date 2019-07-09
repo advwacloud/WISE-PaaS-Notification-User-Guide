@@ -34,8 +34,6 @@ Add the payment card
 
 ![](/assets/addpaymentcard.png)
 
-
-
 re-login when register completely
 
 ![](/assets/login_pass.png)connect device or message cant's publish successfully
@@ -43,6 +41,8 @@ re-login when register completely
 ![](/assets/Devicepairing.png)
 
 ## Please, pick up your device and open WhatsApp Web menu option.
+
+Device connected. Status would show 'Green'
 
 ![](/assets/device_status.png)
 
