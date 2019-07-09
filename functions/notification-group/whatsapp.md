@@ -8,7 +8,7 @@ WhatsApp website: [https://www.whatsapp.com/](https://www.whatsapp.com/)
 
 wassenger website: [https://console.wassenger.com/](https://console.wassenger.com/)
 
-\(Note: Register an account for used first, and here skip the register process\)
+\(Note: Register an account for used first, and here skip the WhatsApp register process\)
 
 ### Wassenger- WhatsApp Cloud API
 
@@ -58,7 +58,7 @@ type into the Wassenger Token and fill in other information
 
 "+" icon to create WhatsApp Group
 
-![](/assets/notification2.png)![](/assets/notification_connected.png)
+![](/assets/notification2.png)
 
 Fill in the  member list info : setup the member who would receive the notification
 
