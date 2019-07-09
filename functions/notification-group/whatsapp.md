@@ -52,7 +52,7 @@ Device connected. Status would show 'Green'
 
 ![](/assets/device_status.png)
 
-Get the API keys to Notification url
+Get the API keys to Notification
 
 Security notice: Do not share or publicly expose the API keys with 3rd party users or websites!
 
