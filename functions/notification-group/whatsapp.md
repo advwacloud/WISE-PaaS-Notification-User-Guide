@@ -16,15 +16,17 @@ create new account
 
 ![](/assets/createnewaccount.png)
 
+
+
 choose the plan: Send & receive messages
 
 \(by the request to choose the product you need, and we used 'Send & receive messages'  for example \)
 
 ![](/assets/pickuptheproduct.png)
 
-and the next step is to choose monthly plan
+and the next step is to choose monthly plan 
 
-\(and we choose the Enterprise for example\)
+\(by the request to choose the product you need, and we choose the Enterprise for example\)
 
 ![](/assets/monthlyplan.png)
 
@@ -34,9 +36,7 @@ Add the payment card
 
 ![](/assets/addpaymentcard.png)
 
-re-login when register completely
-
-![](/assets/login_pass.png)connect device or message cant's publish successfully
+connect device or message cant's publish successfully
 
 ![](/assets/Devicepairing.png)
 
