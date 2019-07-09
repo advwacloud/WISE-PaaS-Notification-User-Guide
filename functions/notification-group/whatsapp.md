@@ -30,9 +30,11 @@ re-login when register completely
 
 get the API keys to Notification
 
+[https://portal-notification-adviiot-webacces-scada.wise-paas.com/\#/Groups](https://portal-notification-adviiot-webacces-scada.wise-paas.com/#/Groups)
+
 ![](/assets/API_key.png)
 
-### Notification- WhatsApp 
+### Notification- WhatsApp
 
 type into the Wassenger Token
 
