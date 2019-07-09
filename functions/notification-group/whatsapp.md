@@ -10,23 +10,29 @@ WhatsApp website: [https://www.whatsapp.com/](https://www.whatsapp.com/)
 
 ### Wassenger- WhatsApp Cloud API
 
-1. create new account
+create new account
 
 ![](/assets/register.png)
 
-2. choose the plan: Send & receive messages
+choose the plan: Send & receive messages
 
 ![](/assets/subscribe.jpg)for enterprise
 
 ![](/assets/subscribe_2.jpg)
 
-3. re-login when register completely
+re-login when register completely
 
-![](/assets/login_pass.png)4. connect device or message cant's publish successfully
+![](/assets/login_pass.png)connect device or message cant's publish successfully
 
 ![](/assets/Device_authorization.png)
 
 ![](/assets/device_status.png)
 
-5. ![](/assets/API_key.png)
+get the API keys to Notification 
+
+![](/assets/API_key.png)
+
+type into the Wassenger Token
+
+![](/assets/notification.png)
 
