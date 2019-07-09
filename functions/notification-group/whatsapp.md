@@ -6,27 +6,27 @@ Wassenger is WhatsApp Cloud API, and we choose Wassenger for support WhatsApp no
 
 WhatsApp website: [https://www.whatsapp.com/](https://www.whatsapp.com/)    \(and here skip the WhatsApp register process\)
 
-wassenger website: [https://console.wassenger.com/](https://console.wassenger.com/)
+Wassenger website: [https://console.wassenger.com/](https://console.wassenger.com/)
 
 \(Note: Register an account for used first\)
 
 ### Wassenger- WhatsApp Cloud API
 
-create new account
+Create new account
 
 ![](/assets/createnewaccount.png)
 
-log in screenshot ![](/assets/Device_authorization1.png)
+Log in screenshot ![](/assets/Device_authorization1.png)
 
-at the Device tag to choose the plan: Send & receive messages
+At the Device tag to choose the plan: Send & receive messages
 
-\(by the request to choose the product you need, and we used 'Send & receive messages'  for example \)
+\(By the request to choose the product you need, and we used 'Send & receive messages'  for example \)
 
 ![](/assets/pickuptheproduct.png)
 
-and the next step is to choose monthly plan
+And the next step is to choose monthly plan
 
-\(by the request to choose the product you need, and we choose the Enterprise for example\)
+\(By the request to choose the product you need, and we choose the Enterprise for example\)
 
 ![](/assets/monthlyplan.png)
 
@@ -36,7 +36,7 @@ Add the payment card
 
 ![](/assets/addpaymentcard.png)
 
-connect device or message cant's publish successfully
+Connect device or message cant's publish successfully
 
 ![](/assets/Devicepairing.png)
 
@@ -52,9 +52,7 @@ Device connected. Status would show 'Green'
 
 ![](/assets/device_status.png)
 
-get the API keys to Notification
-
-[https://portal-notification-adviiot-webacces-scada.wise-paas.com/\#/Groups](https://portal-notification-adviiot-webacces-scada.wise-paas.com/#/Groups)
+Get the API keys to Notification url
 
 Security notice: Do not share or publicly expose the API keys with 3rd party users or websites!
 
@@ -62,7 +60,7 @@ Security notice: Do not share or publicly expose the API keys with 3rd party use
 
 ### Notification- WhatsApp
 
-type into the Wassenger Token and fill in other information
+Type into the Wassenger Token and fill in other information
 
 "+" icon to create WhatsApp Group
 
