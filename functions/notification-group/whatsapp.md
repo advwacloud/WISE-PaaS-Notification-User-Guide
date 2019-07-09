@@ -28,11 +28,21 @@ and the next step is to choose monthly plan
 
 ![](/assets/monthlyplan.png)
 
+Add the payment card
+
+\(System support Master Card and VISA\)
+
+![](/assets/addpaymentcard.png)
+
+
+
 re-login when register completely
 
 ![](/assets/login_pass.png)connect device or message cant's publish successfully
 
-![](/assets/Device_authorization.png)
+![](/assets/Devicepairing.png)
+
+## Please, pick up your device and open WhatsApp Web menu option.
 
 ![](/assets/device_status.png)
 
