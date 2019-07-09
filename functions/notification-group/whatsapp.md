@@ -42,7 +42,7 @@ connect device or message cant's publish successfully
 
 ## 
 
-Please pic up your devices and open WhatsApp Web menu option.
+Please pick up your devices and open WhatsApp Web menu option.
 
 ![](/assets/QRcode.png)
 
