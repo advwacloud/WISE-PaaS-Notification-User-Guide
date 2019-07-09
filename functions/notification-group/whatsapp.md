@@ -2,9 +2,7 @@
 
 ---
 
-Wassenger is WhatsApp Cloud API,for support WhatsApp notification function
-
-
+Wassenger is WhatsApp Cloud API, and we choose Wassenger for support WhatsApp notification function
 
 WhatsApp website: [https://www.whatsapp.com/](https://www.whatsapp.com/)
 
@@ -44,11 +42,11 @@ get the API keys to Notification
 
 type into the Wassenger Token and fill in other information
 
+the highlight means 
+
 ![](/assets/notification_connected.png)
 
-member list info
+Fill in the  member list info : setup the member who would receive the notification 
 
 ![](/assets/newmember.png)
-
-
 
