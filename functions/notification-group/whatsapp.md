@@ -18,11 +18,15 @@ create new account
 
 choose the plan: Send & receive messages
 
-\(by the request to choose the plan, and we used 'Send & receive messages'  for example \)
+\(by the request to choose the product you need, and we used 'Send & receive messages'  for example \)
 
-![](/assets/subscribe.jpg)
+![](/assets/pickuptheproduct.png)
 
-![](/assets/subscribe_2.jpg)
+and the next step is to choose monthly plan
+
+\(and we choose the Enterprise for example\)
+
+![](/assets/monthlyplan.png)
 
 re-login when register completely
 
@@ -42,11 +46,11 @@ get the API keys to Notification
 
 type into the Wassenger Token and fill in other information
 
-the highlight means 
+the highlight means
 
 ![](/assets/notification_connected.png)
 
-Fill in the  member list info : setup the member who would receive the notification 
+Fill in the  member list info : setup the member who would receive the notification
 
 ![](/assets/newmember.png)
 
