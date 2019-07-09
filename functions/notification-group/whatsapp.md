@@ -2,7 +2,9 @@
 
 ---
 
-Support WhatsApp notifications.
+Wassenger is WhatsApp Cloud API,for support WhatsApp notification function
+
+
 
 WhatsApp website: [https://www.whatsapp.com/](https://www.whatsapp.com/)
 
@@ -14,11 +16,13 @@ wassenger website: [https://console.wassenger.com/](https://console.wassenger.co
 
 create new account
 
-![](/assets/register.png)
+![](/assets/createnewaccount.png)
 
 choose the plan: Send & receive messages
 
-![](/assets/subscribe.jpg)for enterprise
+\(by the request to choose the plan, and we used 'Send & receive messages'  for example \)
+
+![](/assets/subscribe.jpg)
 
 ![](/assets/subscribe_2.jpg)
 
@@ -38,7 +42,13 @@ get the API keys to Notification
 
 ### Notification- WhatsApp
 
-type into the Wassenger Token
+type into the Wassenger Token and fill in other information
 
-![](/assets/notification.png)
+![](/assets/notification_connected.png)
+
+member list info
+
+![](/assets/newmember.png)
+
+
 
