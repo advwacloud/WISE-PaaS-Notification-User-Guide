@@ -58,7 +58,7 @@ type into the Wassenger Token and fill in other information
 
 "+" icon to create WhatsApp Group
 
-![](/assets/notification2.png)
+![](/assets/notification2.png)![](/assets/notification5.png)
 
 Fill in the  member list info : setup the member who would receive the notification
 
