@@ -62,5 +62,5 @@ type into the Wassenger Token and fill in other information
 
 Fill in the  member list info : setup the member who would receive the notification
 
-![](/assets/newmember.png)
+![](/assets/newmember1.png)
 
