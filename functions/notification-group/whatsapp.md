@@ -22,7 +22,7 @@ And after register: it would show the following screenshot
 
 Now we will make mobile device connected with Wassenger   ![](/assets/Device_authorization1.png)
 
-At the Device tag to choose the plan: Send & receive messages
+At the Device tag : to choose the plan: Send & receive messages
 
 Wassenger support 7 days free trial
 
