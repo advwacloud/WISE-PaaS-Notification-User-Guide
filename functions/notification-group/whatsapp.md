@@ -36,7 +36,7 @@ And the next step is to choose monthly plan
 
 ![](/assets/monthlyplan.png)
 
-After choose plan need to Add the payment card
+After choose plan need to add the payment card
 
 \(System support Master Card and VISA\)
 
