@@ -50,6 +50,8 @@ Connect device or message cant's publish successfully
 
 Please pick up your devices and open WhatsApp Web menu option.
 
+Using scan QR code function to sync. 
+
 ![](/assets/QRcode.png)
 
 ![](/assets/deviceauthority1.png)
