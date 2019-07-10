@@ -24,7 +24,7 @@ Now we will make mobile device connected with Wassenger   ![](/assets/Device_aut
 
 At the Device tag to choose the plan: Send & receive messages
 
-Wassenger support 7 days free trial 
+Wassenger support 7 days free trial
 
 \(By the request to choose the product you need, and we used 'Send & receive messages'  for example \)
 
@@ -36,7 +36,7 @@ And the next step is to choose monthly plan
 
 ![](/assets/monthlyplan.png)
 
-Add the payment card
+After choose plan need to Add the payment card
 
 \(System support Master Card and VISA\)
 
