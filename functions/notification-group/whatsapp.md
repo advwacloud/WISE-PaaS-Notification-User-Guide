@@ -50,7 +50,7 @@ Connect device or message cant's publish successfully
 
 Please pick up your devices and open WhatsApp Web menu option.
 
-Using scan QR code function to sync. 
+Using scan QR code function to sync.
 
 ![](/assets/QRcode.png)
 
@@ -60,7 +60,7 @@ Device connected. Status would show 'Green'
 
 ![](/assets/device_status.png)
 
-Get the API keys to Notification
+At the API keys to copy Token to Notification
 
 Security notice: Do not share or publicly expose the API keys with 3rd party users or websites!
 
