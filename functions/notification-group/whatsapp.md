@@ -20,9 +20,7 @@ Wassenger website: [https://console.wassenger.com/](https://console.wassenger.co
 
 And after register: it would show the following screenshot
 
-Now we will  ![](/assets/Device_authorization1.png)
-
-![](/assets/Device_authorization1.png)
+Now we will make mobile device connected with Wassenger   ![](/assets/Device_authorization1.png)
 
 At the Device tag to choose the plan: Send & receive messages
 
