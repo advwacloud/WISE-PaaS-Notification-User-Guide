@@ -6,7 +6,7 @@ Support WhatsApp, we used Wassenger to implement.
 
 Wassenger is WhatsApp Cloud API, and we choose Wassenger for support WhatsApp notification function
 
-### &lt;/br&gt;Website:&lt;br/&gt;
+### Website
 
 WhatsApp : [https://www.whatsapp.com/](https://www.whatsapp.com/)
 
