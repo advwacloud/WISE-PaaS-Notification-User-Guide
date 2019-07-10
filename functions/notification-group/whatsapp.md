@@ -14,7 +14,7 @@ Wassenger website: [https://console.wassenger.com/](https://console.wassenger.co
 
 ### Wassenger- WhatsApp Cloud API
 
-Create new account
+1. Create new account
 
 ![](/assets/createnewaccount.png)
 
