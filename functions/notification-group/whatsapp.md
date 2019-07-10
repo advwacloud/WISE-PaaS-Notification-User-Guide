@@ -72,7 +72,7 @@ Security notice: Do not share or publicly expose the API keys with 3rd party use
 
 Type into the Wassenger Token and fill in other information![](/assets/notification2.png)
 
-![](/assets/notification2.png)![](/assets/notification5.png)
+![](/assets/notification5.png)
 
 Fill in the  member list info : setup the member who would receive the notification
 
