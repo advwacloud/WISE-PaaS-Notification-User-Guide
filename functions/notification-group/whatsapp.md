@@ -2,9 +2,11 @@
 
 ---
 
-For Europe, the most popular chat app: WhatsApp. To support WhatsApp 
+For Europe, the most popular chat app: WhatsApp. To support WhatsApp, we used Wassenger to implement.
 
 Wassenger is WhatsApp Cloud API, and we choose Wassenger for support WhatsApp notification function
+
+
 
 WhatsApp website: [https://www.whatsapp.com/](https://www.whatsapp.com/)    \(and here skip the WhatsApp register process\)
 
