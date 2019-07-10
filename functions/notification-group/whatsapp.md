@@ -44,7 +44,7 @@ After choose plan need to add the payment card
 
 ![](/assets/addpaymentcard.png)
 
-Connect device or message cant's publish successfully
+Pairing device or message cant's publish successfully
 
 ![](/assets/Devicepairing.png)
 
