@@ -44,7 +44,7 @@ After choose plan need to add the payment card
 
 ![](/assets/addpaymentcard.png)
 
-Pairing device or message cant's publish successfully
+Pairing device first \(or message cant's publish successfully\)
 
 ![](/assets/Devicepairing.png)
 
