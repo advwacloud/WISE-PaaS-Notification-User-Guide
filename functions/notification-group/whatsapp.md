@@ -24,6 +24,8 @@ Now we will make mobile device connected with Wassenger   ![](/assets/Device_aut
 
 At the Device tag to choose the plan: Send & receive messages
 
+Wassenger support 7 days free trial 
+
 \(By the request to choose the product you need, and we used 'Send & receive messages'  for example \)
 
 ![](/assets/pickuptheproduct.png)
