@@ -62,6 +62,18 @@ Device connected. Status would show 'Green'
 
 ![](/assets/device_status.png)
 
+Note: If two devices exist at the same time, message would send to the device which register first
+
+![](/assets/device4.png)
+
+Click the Device icon, get the Device ID
+
+By correct ID, message could send to the correct device. 
+
+![](/assets/deviceid.png)
+
+
+
 At the API keys to copy Token to Notification
 
 Security notice: Do not share or publicly expose the API keys with 3rd party users or websites!
