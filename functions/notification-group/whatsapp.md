@@ -68,11 +68,9 @@ Note: If two devices exist at the same time, message would send to the device wh
 
 Click the Device icon, get the Device ID
 
-By correct ID, message could send to the correct device. 
+By correct ID, message could send to the correct device.
 
-![](/assets/deviceid.png)
-
-
+![](/assets/deviceid2.png)
 
 At the API keys to copy Token to Notification
 
