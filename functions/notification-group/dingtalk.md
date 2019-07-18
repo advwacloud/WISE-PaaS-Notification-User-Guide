@@ -67,3 +67,11 @@ So, when you call `/send` API, you just need to send the following body, you wil
 
 ![](/assets/dingtalk_add_member2.png)
 
+
+
+### Notice
+
+The messages have the same contents will be sent once. It's the limitation of DingTalk.
+
+
+
