@@ -30,7 +30,7 @@ Scan the following QR Code to add LINE Notify as your friend to use the notifica
 
 Choose a defined level according to your notification strategy. Default is "Critical" means notifying message in time.
 
-### Templcate
+### Template
 
 Support `Text` content. You can pre-define your message template here. When you call `/send` API, you don't need to send entire message string every time, just send the variables.
 
@@ -53,6 +53,4 @@ So, when you call `/send` API, you just need to send the following body, you wil
 ### Add a Member
 
 ![](/assets/line_add2.png)![](/assets/line_add.png)
-
-
 
