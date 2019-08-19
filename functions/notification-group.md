@@ -14,7 +14,7 @@ Users can classify the notified personnel through the Notification Group. For ex
 * Service Setting: According to Service Type, please refer to the corresponding chapter.
 * Member List: The list of notified persons, First Name and Last Name are used for identification, and the third field is different according to Service Type. Please refer to the corresponding chapter.
 
-![](/assets/notify_email.png)
+![](/assets/notification_group.png)
 
 ### Duplicate a Notification Group
 
