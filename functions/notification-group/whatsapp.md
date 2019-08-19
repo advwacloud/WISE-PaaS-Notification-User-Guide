@@ -82,7 +82,9 @@ Security notice: Do not share or publicly expose the API keys with 3rd party use
 
 "+" icon to create WhatsApp Group
 
-Type into the Wassenger Token and fill in other information![](/assets/notification2.png)
+Type into the Wassenger Token and fill in other information
+
+![](/assets/whatsapp.png)
 
 ![](/assets/notification5.png)
 
