@@ -22,5 +22,5 @@ Support Email notifications. Users can use their own mail server or mail service
 
 You can assign the recipient type \(To/CC/BCC\) to a new member.
 
-![](/assets/email_add_member2.png)
+![](/assets/email_newnumber_ccto.png)
 
