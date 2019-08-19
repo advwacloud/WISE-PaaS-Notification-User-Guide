@@ -20,21 +20,21 @@ Users can classify the notified personnel through the Notification Group. For ex
 
 Click the Duplicate button of the notification group you want to duplicate, you will redirect to a new page. The original notification setting will be kept. User only needs to modify different parts. Press the Save button to save it as another new notification group.
 
-
-
 ![](/assets/notification_duplicate.png)
 
 ### Edit a Notification Group
 
 Click the notification group name you want to modify.
 
-![](/assets/group_editbutton.png)
 
-![](/assets/group_edit.png)
+
+![](/assets/notification_edit2.png)
+
+![](/assets/notification_edit3.png)
 
 ### Delete a Notification Group
 
 Check the notification group that you want to delete, then click the delete button on the upper right to delete it.
 
-![](/assets/group_delete.png)
+![](/assets/notification_delete.png)
 
