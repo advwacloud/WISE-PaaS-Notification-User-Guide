@@ -4,11 +4,9 @@
 
 Users can classify the notified personnel through the Notification Group. For example, the A factory and the B factory each have their own notification group that are not affected by each other.
 
-
-
 ### Notification Group List
 
-![](/assets/group_list.png)
+![](/assets/notification_full.png)
 
 ### Create a Notification Group \(E-mail\)
 
