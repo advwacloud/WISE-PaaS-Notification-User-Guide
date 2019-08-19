@@ -52,7 +52,7 @@ So, when you call `/send` API, you just need to send the following body, you wil
 
 ### Add a Member
 
-![](/assets/line_add_member1.png)
+![](/assets/line_add2.png)![](/assets/line_add.png)
 
-![](/assets/line_add_member2.png)
+
 
