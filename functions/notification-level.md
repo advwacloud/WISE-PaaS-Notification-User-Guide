@@ -14,7 +14,7 @@ Users can customize the frequency and the number of notifications sent each time
 
 ### Level List
 
-![](/assets/level_list.png)
+![](/assets/levelconfig.png)
 
 ### Create Level
 
@@ -27,3 +27,4 @@ Users can customize the frequency and the number of notifications sent each time
 ### Group Bind Level
 
 ![](/assets/group_level.png)
+
