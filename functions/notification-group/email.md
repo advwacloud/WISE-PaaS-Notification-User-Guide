@@ -18,9 +18,9 @@ Support Email notifications. Users can use their own mail server or mail service
 
 ### Add a Member
 
-![](/assets/notification_add3.png)
+![](/assets/Email_demo_add.png)
 
 You can assign the recipient type \(To/CC/BCC\) to a new member.
 
-![](/assets/email_newnumber_ccto.png)
+![](/assets/Email_cc.png)
 
