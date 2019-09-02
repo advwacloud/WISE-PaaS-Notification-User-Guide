@@ -43,6 +43,8 @@ So, when you call **/send** API, you just need to send the following body, you w
 ]
 ```
 
+### ![](/assets/email_template2.png)
+
 ### Add a Member
 
 ![](/assets/Email_demo_add.png)
