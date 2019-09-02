@@ -35,6 +35,7 @@ For example, we pre-define a sentence contains a variable {cocktail} and a pictu
 So, when you call **/send** API, you just need to send the following body, you will receive a email with entire message.
 
 ```
+[  
   {
     "groupId": "yer8agvrjl4b",
     "useTemplate": true,
