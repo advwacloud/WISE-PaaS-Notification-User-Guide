@@ -47,11 +47,11 @@ So, when you call **/send** API, you just need to send the following body, you w
 
 ### 
 
-### Attachements
+### Attachments
 
-Support attachments on **/send** and **/directsend **API. You can send up to **10 MB** in attachments. If you have more than one attachment, they can't add up to more than **5 **attchements.
+Support attachments on **/send** and **/directsend **API. You can send up to **10 MB** in attachments. If you have more than one attachment, they can't add up to more than **5 **attchments.
 
-.
+
 
 ### Add a Member
 
