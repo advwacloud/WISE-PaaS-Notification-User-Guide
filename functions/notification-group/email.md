@@ -20,11 +20,15 @@ For example \\(Gmail setting\\):
 
 ![](/assets/email_setting.png)
 
-\#\#\# Group Level
+### Group
 
- Choose a defined level according to your notification strategy. Default is  "Critical"  means notifying message in time.
+Choose a defined level according to your notification strategy. Default is  "Critical"  means notifying message in time.
 
+### Template
 
+ Support **HTML **and **Text** content. You can pre-define your message template here. When you call "/send" API, you don't need to send entire message string every time, just send the variables. If you don't use template, leave template blank.
+
+ For example, we pre-define a sentence contains a variable {cocktail} and a picture.
 
 ### Add a Member
 
