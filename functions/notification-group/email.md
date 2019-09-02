@@ -49,15 +49,7 @@ So, when you call **/send** API, you just need to send the following body, you w
 
 ### Attachements
 
- Support attachments on
-
-\`/send\`
-
-and
-
-\`/directsend\`
-
-API. You can send up to
+Support attachments on **/send** and **/directsend **API. You can send up to
 
 \*\*10 MB\*\*
 
