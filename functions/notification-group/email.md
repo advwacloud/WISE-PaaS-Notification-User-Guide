@@ -16,9 +16,15 @@ Support Email notifications. Users can use their own mail server or mail service
 | Sender Email | The Email address of sender. |
 | E-Mail Subject | ments. If you have more than one attachment, they can't add up to more than 5. |
 
- For example \\(Gmail setting\\):
+For example \\(Gmail setting\\):
 
- !\[\]\(/assets/email\_setting.png\)
+![](/assets/email_setting.png)
+
+\#\#\# Group Level
+
+ Choose a defined level according to your notification strategy. Default is  "Critical"  means notifying message in time.
+
+
 
 ### Add a Member
 
