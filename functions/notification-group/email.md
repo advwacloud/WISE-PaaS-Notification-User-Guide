@@ -16,6 +16,10 @@ Support Email notifications. Users can use their own mail server or mail service
 | Sender Email | The Email address of sender. |
 | E-Mail Subject | ments. If you have more than one attachment, they can't add up to more than 5. |
 
+ For example \\(Gmail setting\\):
+
+ !\[\]\(/assets/email\_setting.png\)
+
 ### Add a Member
 
 ![](/assets/Email_demo_add.png)
