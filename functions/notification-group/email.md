@@ -16,7 +16,7 @@ Support Email notifications. Users can use their own mail server or mail service
 | Sender Email | The Email address of sender. |
 | E-Mail Subject | ments. If you have more than one attachment, they can't add up to more than 5. |
 
-For example \\(Gmail setting\\):
+For example **Gmail setting **
 
 ![](/assets/email_setting.png)
 
@@ -50,8 +50,6 @@ So, when you call **/send** API, you just need to send the following body, you w
 ### Attachments
 
 Support attachments on **/send** and **/directsend **API. You can send up to **10 MB** in attachments. If you have more than one attachment, they can't add up to more than **5 **attchments.
-
-
 
 ### Add a Member
 
