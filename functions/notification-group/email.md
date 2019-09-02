@@ -20,7 +20,7 @@ For example **Gmail setting **
 
 ![](/assets/email_setting.png)
 
-### Group
+### Group Level
 
 Choose a defined level according to your notification strategy. Default is  "Critical"  means notifying message in time.
 
