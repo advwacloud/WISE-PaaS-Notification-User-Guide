@@ -26,9 +26,15 @@ Choose a defined level according to your notification strategy. Default is  "Cri
 
 ### Template
 
- Support **HTML **and **Text** content. You can pre-define your message template here. When you call "/send" API, you don't need to send entire message string every time, just send the variables. If you don't use template, leave template blank.
+Support **HTML **and **Text** content. You can pre-define your message template here. When you call **/send** API, you don't need to send entire message string every time, just send the variables. If you don't use template, leave template blank.
 
- For example, we pre-define a sentence contains a variable {cocktail} and a picture.
+For example, we pre-define a sentence contains a variable {cocktail} and a picture.
+
+![](/assets/email_template1.png)
+
+
+
+ So, when you call **/send** API, you just need to send the following body, you will receive a email with entire message.
 
 ### Add a Member
 
