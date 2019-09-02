@@ -32,9 +32,11 @@ For example, we pre-define a sentence contains a variable {cocktail} and a pictu
 
 ![](/assets/email_template1.png)
 
+So, when you call **/send** API, you just need to send the following body, you will receive a email with entire message.
 
+\[ { "groupId": "yer8agvrjl4b", "useTemplate": true, "variables": {"cocktail": "Negroni"} } \]
 
- So, when you call **/send** API, you just need to send the following body, you will receive a email with entire message.
+### 
 
 ### Add a Member
 
