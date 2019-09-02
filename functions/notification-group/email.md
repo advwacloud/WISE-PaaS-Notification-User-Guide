@@ -45,6 +45,28 @@ So, when you call **/send** API, you just need to send the following body, you w
 
 ### ![](/assets/email_template2.png)
 
+### 
+
+### Attachements
+
+ Support attachments on
+
+\`/send\`
+
+and
+
+\`/directsend\`
+
+API. You can send up to
+
+\*\*10 MB\*\*
+
+in attachments. If you have more than one attachment, they can't add up to more than
+
+\*\*5\*\*
+
+.
+
 ### Add a Member
 
 ![](/assets/Email_demo_add.png)
