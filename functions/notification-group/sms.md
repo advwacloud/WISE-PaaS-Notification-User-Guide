@@ -68,15 +68,11 @@ c. Sample SMS Text: type the message content.
 
 Binding credit card \(we can pass this procedure, and used SMS successfully\)![](/assets/11_2ndsetupdone.png)
 
-SMS-&gt;Manage the phones including binding mobile detailed info.![](/assets/12_Manage test phones.png)
+SMS-&gt;Manage the phones including binding mobile detailed info \(including phone number, binding info, and mobile status.\) .![](/assets/12_Manage test phones.png)
 
-![](/assets/12_Manage test phones.png)
+API Key:![](/assets/13_SMS intrgrations.png)![](/assets/14_Sent details report.png)
 
-![](/assets/12_Manage test phones.png)
+![](/assets/14_Sent details report.png)
 
-![](/assets/12_Manage test phones.png)
-
-![](/assets/12_Manage test phones.png)
-
-![](/assets/12_Manage test phones.png)
+![](/assets/14_Sent details report.png)
 
