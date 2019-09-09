@@ -54,7 +54,7 @@ a. Select your integration: using the drop-down menu to choose the integrated it
 
 b. Select test number: enter the phone number which to receive message.
 
-c. Sample SMS Text: type the message content.
+c. Sample SMS Text: type the message content what you want to received.
 
 ![](/assets/10_Create and test a SMS integration.png)
 
