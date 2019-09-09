@@ -58,11 +58,25 @@ Add phone successed.
 
 Now to integrate the setup2 SMS.
 
- a. Select your integration: 選擇自己的整合項目 \(下拉式選單往下打開\)
+a. Select your integration: using the drop-down menu to choose the integrated item.
 
- b. Select test number: 輸入測試號碼\(要接收訊息的手機號碼\)
+b. Select test number: enter the phone number which to receive message.
 
- c. Sample SMS Text: 輸入要接收的訊息內容
+c. Sample SMS Text: type the message content.
 
 ![](/assets/10_Create and test a SMS integration.png)
+
+Binding credit card \(we can pass this procedure, and used SMS successfully\)![](/assets/11_2ndsetupdone.png)
+
+SMS-&gt;Manage the phones including binding mobile detailed info.![](/assets/12_Manage test phones.png)
+
+![](/assets/12_Manage test phones.png)
+
+![](/assets/12_Manage test phones.png)
+
+![](/assets/12_Manage test phones.png)
+
+![](/assets/12_Manage test phones.png)
+
+![](/assets/12_Manage test phones.png)
 
