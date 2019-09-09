@@ -72,9 +72,5 @@ SMS-&gt;Manage the phones including binding mobile detailed info \(including pho
 
 API Key:![](/assets/13_SMS intrgrations.png)Reporting : check the report \(all messages sent and received history\)![](/assets/14_Sent details report.png)
 
-Report info:![](/assets/15_GenerateReport.png)Message ID detail: message detail   ![](/assets/16_reportDetail.png)
-
-
-
-
+Report info:![](/assets/15_GenerateReport.png)Message ID detail: message detail \(number、message content\) ![](/assets/16_reportDetail.png)
 
