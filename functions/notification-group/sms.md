@@ -28,8 +28,6 @@ Taiwan and China had One-way message for choosed.
 
 ![](/assets/4_setting_1.png)
 
-
-
 Save integration.
 
 ![](/assets/5_save.png)
@@ -50,7 +48,7 @@ Add test phone successfully.
 
 ![](/assets/9_1ststepdone.png)
 
-Now to integrate the setup2 SMS.
+Now to integrate the setup2 "Create and test a SMS integration".
 
 a. Select your integration: using the drop-down menu to choose the integrated item.
 
