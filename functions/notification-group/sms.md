@@ -2,18 +2,13 @@
 
 ---
 
-Support SMS, we used the Clicktell to handle.
+Support SMS, we used Clicktell to implement.
+
+Clikctell is SMS 3rd party API, and we choose Clicktell to Support SMS notification function.
 
 
 
-
-
- Clicktell-用來串接Notification SMS的3rd party tool
-
- Website: 
+Website:
 
 [https://portal.clickatell.com/\#/](https://portal.clickatell.com/#/)
-
-  
-
 
