@@ -62,7 +62,7 @@ Step 3: "Setup your account "
 
 Binding credit card \(we can pass this process, and used SMS successfully\)![](/assets/11_2ndsetupdone.png)
 
-Now to using the left side: SMS Manage test phones.
+Now to using the left side menu: SMS Manage test phones.
 
 SMS -&gt; Manage test phones including binding mobile detailed info \(including phone number, binding info, and mobile status.\) .![](/assets/12_Manage test phones.png)
 
