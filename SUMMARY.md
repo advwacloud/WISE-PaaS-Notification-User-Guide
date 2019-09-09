@@ -9,6 +9,7 @@
     * [Webhook](functions/notification-group/webhook.md)
     * [DingTalk](functions/notification-group/dingtalk.md)
     * [WhatsApp](functions/notification-group/whatsapp.md)
+    * [SMS](functions/notification-group/sms.md)
   * [Notification Level](functions/notification-level.md)
   * [Notify](functions/notify.md)
   * [API](functions/api.md)
