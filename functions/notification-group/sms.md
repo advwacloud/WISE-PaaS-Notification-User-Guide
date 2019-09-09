@@ -18,8 +18,9 @@ Clicktell: [https://portal.clickatell.com/\#/](https://portal.clickatell.com/#/)
 
 After register for 10 minutes, we would receive the verification letter
 
-And we choose SMS function. 
+And we choose SMS function.
 
-  
+![](/assets/1_SMSonly.png)
+
 
 
