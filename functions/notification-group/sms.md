@@ -68,7 +68,7 @@ SMS -&gt; Manage test phones including binding mobile detailed info \(including 
 
 API Key:  the API to connect wiht WISE-PaaS/Notification setting.
 
-Make sure Integration API status is Activate \(or  Notification function can't work successfully\)![](/assets/13_SMS intrgrations.png)Reporting : check the report \(all messages sent and received history\)
+Make sure Integration API status is Activate \(or  function can't work successfully\)![](/assets/13_SMS intrgrations.png)Reporting : check the report \(all messages sent and received history\)
 
 Report info:![](/assets/15_GenerateReport.png)Message ID detail: message detail \(number、message content\) ![](/assets/16_reportDetail.png)
 
