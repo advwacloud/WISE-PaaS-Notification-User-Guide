@@ -76,7 +76,7 @@ Report info:![](/assets/15_GenerateReport.png)Message ID detail: message detail 
 
 Type into the Clicktell API and fill in other information
 
-**補上訊息欄位的畫面**
+![](/assets/SMS_setting.png)
 
 Add New number:![](/assets/SMS_addnewnumber.png)
 
