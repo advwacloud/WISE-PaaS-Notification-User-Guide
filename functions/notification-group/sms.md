@@ -32,7 +32,7 @@ Save integration.
 
 ![](/assets/5_save.png)
 
-After complete below setting, now to setup mobile device.
+After complete below setting, now Start the Step1 "Setup your test phones"
 
 ![](/assets/6_setupPhone.png)
 
