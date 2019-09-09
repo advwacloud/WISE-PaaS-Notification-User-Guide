@@ -24,6 +24,8 @@ And we choose SMS function.
 
 ![](/assets/2_Createnewintegrate.png)
 
+Taiwan and China had One-way message for choosed.
+
 ![](/assets/3_Createnewintegrate_feature.png)![](/assets/4_setting_1.png)
 
 ![](/assets/4_setting_1.png)
@@ -36,13 +38,7 @@ And we choose SMS function.
 
 ![](/assets/8_uniquecode.png)
 
-
-
 ![](/assets/9_1ststepdone.png)
 
 ![](/assets/10_Create and test a SMS integration.png)
-
-
-
-
 
