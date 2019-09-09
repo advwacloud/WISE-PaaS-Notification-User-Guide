@@ -80,7 +80,5 @@ Type into the Clicktell API and fill in other information
 
 Add New number:
 
-Phone number example: +886911960999 \(with/without "+" is all work\) ![](/assets/886newnumber.png)
-
-
+Phone number example: +886911960999 \(with/without "+" is all work\) ![](/assets/+.png)
 
