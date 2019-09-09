@@ -38,19 +38,31 @@ Taiwan and China had One-way message for choosed.
 
 ![](/assets/4_setting_1.png)
 
-
-
 ![](/assets/5_save.png)
 
 After complete below setting, now to setup mobile device.
 
 ![](/assets/6_setupPhone.png)
 
+Enter Mobile phone.
+
 ![](/assets/7_addtestphone.png)
+
+Enter verification code
 
 ![](/assets/8_uniquecode.png)
 
+Add phone successed.
+
 ![](/assets/9_1ststepdone.png)
+
+Now to integrate the setup2 SMS.
+
+ a. Select your integration: 選擇自己的整合項目 \(下拉式選單往下打開\)
+
+ b. Select test number: 輸入測試號碼\(要接收訊息的手機號碼\)
+
+ c. Sample SMS Text: 輸入要接收的訊息內容
 
 ![](/assets/10_Create and test a SMS integration.png)
 
