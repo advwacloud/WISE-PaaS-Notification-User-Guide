@@ -66,7 +66,7 @@ Now to using the left side: SMS Manage test phones.
 
 SMS-&gt;Manage the phones including binding mobile detailed info \(including phone number, binding info, and mobile status.\) .![](/assets/12_Manage test phones.png)
 
-API Key: ![](/assets/13_SMS intrgrations.png)Reporting : check the report \(all messages sent and received history\)![](/assets/14_Sent details report.png)
+API Key: copy the API Key where WISE-PaaS/Notification would used.  ![](/assets/13_SMS intrgrations.png)Reporting : check the report \(all messages sent and received history\)![](/assets/14_Sent details report.png)
 
 Report info:![](/assets/15_GenerateReport.png)Message ID detail: message detail \(number、message content\) ![](/assets/16_reportDetail.png)
 
