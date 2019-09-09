@@ -26,9 +26,7 @@ And we choose SMS function.
 
 Taiwan and China had One-way message for choosed.
 
-![](/assets/3_Createnewintegrate_feature.png)In the Settings page,we can enable/disable all the setting 
-
-
+![](/assets/3_Createnewintegrate_feature.png)In the Settings page,we can enable/disable all the setting
 
 ![](/assets/4_setting_1.png)
 
@@ -40,9 +38,11 @@ Taiwan and China had One-way message for choosed.
 
 ![](/assets/4_setting_1.png)
 
-![](/assets/4_setting_1.png)
+
 
 ![](/assets/5_save.png)
+
+After complete below setting, now to setup mobile device.
 
 ![](/assets/6_setupPhone.png)
 
