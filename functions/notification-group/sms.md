@@ -70,3 +70,13 @@ API Key: the API Key where WISE-PaaS/Notification would used.  ![](/assets/13_SM
 
 Report info:![](/assets/15_GenerateReport.png)Message ID detail: message detail \(number、message content\) ![](/assets/16_reportDetail.png)
 
+### Notification- SMS
+
+"+" icon to create SMS Group![](/assets/SMS_portal.png)
+
+Type into the Clicktell API and fill in other information
+
+Add New number:![](/assets/SMS_addnewnumber.png)
+
+
+
