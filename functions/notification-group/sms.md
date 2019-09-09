@@ -12,13 +12,11 @@ Clicktell: [https://portal.clickatell.com/\#/](https://portal.clickatell.com/#/)
 
 ### Clicktell-SMS API
 
-1.Create new account
+1.Create new account to get started.![](/assets/0_portal.png)
 
-![](/assets/0_portal.png)
+After register \(about10 minutes\) , we would receive the verification letter
 
-After register for 10 minutes, we would receive the verification letter
-
-And we choose SMS function.
+And we choose "Get started with Single API for SMS only".
 
 ![](/assets/1_SMSonly.png)
 
@@ -30,13 +28,9 @@ Taiwan and China had One-way message for choosed.
 
 ![](/assets/4_setting_1.png)
 
-![](/assets/4_setting_1.png)
 
-![](/assets/4_setting_1.png)
 
-![](/assets/4_setting_1.png)
-
-![](/assets/4_setting_1.png)
+Save integration.
 
 ![](/assets/5_save.png)
 
@@ -52,7 +46,7 @@ Enter verification code
 
 ![](/assets/8_uniquecode.png)
 
-Add phone successed.
+Add test phone successfully.
 
 ![](/assets/9_1ststepdone.png)
 
