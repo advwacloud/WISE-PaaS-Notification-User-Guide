@@ -76,7 +76,11 @@ Report info:![](/assets/15_GenerateReport.png)Message ID detail: message detail 
 
 Type into the Clicktell API and fill in other information
 
-![](/assets/SMS_setting.png)
+![](/assets/editscreen.png)
 
-Add New number:![](/assets/SMS_addnewnumber.png)
+Add New number:
+
+Phone number example: 886911960999![](/assets/886newnumber.png)
+
+![](/assets/sendsuccess.png)
 
