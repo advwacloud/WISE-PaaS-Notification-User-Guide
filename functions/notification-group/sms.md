@@ -22,5 +22,27 @@ And we choose SMS function.
 
 ![](/assets/1_SMSonly.png)
 
+![](/assets/2_Createnewintegrate.png)
+
+![](/assets/3_Createnewintegrate_feature.png)![](/assets/4_setting_1.png)
+
+![](/assets/4_setting_1.png)
+
+![](/assets/5_save.png)
+
+![](/assets/6_setupPhone.png)
+
+![](/assets/7_addtestphone.png)
+
+![](/assets/8_uniquecode.png)
+
+
+
+![](/assets/9_1ststepdone.png)
+
+![](/assets/10_Create and test a SMS integration.png)
+
+
+
 
 
