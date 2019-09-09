@@ -58,7 +58,11 @@ c. Sample SMS Text: type the message content what you want to received.
 
 ![](/assets/10_Create and test a SMS integration.png)
 
+Step3: "Setup your account "
+
 Binding credit card \(we can pass this procedure, and used SMS successfully\)![](/assets/11_2ndsetupdone.png)
+
+Now to using the left side: SMS Manage test phones.
 
 SMS-&gt;Manage the phones including binding mobile detailed info \(including phone number, binding info, and mobile status.\) .![](/assets/12_Manage test phones.png)
 
