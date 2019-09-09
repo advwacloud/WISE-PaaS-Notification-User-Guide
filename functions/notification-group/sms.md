@@ -48,7 +48,7 @@ Add test phone successfully.
 
 ![](/assets/9_1ststepdone.png)
 
-Now to integrate the setup2 "Create and test a SMS integration".
+Now to integrate the Step 2 "Create and test a SMS integration".
 
 a. Select your integration: using the drop-down menu to choose the integrated item.
 
