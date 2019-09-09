@@ -26,7 +26,19 @@ And we choose SMS function.
 
 Taiwan and China had One-way message for choosed.
 
-![](/assets/3_Createnewintegrate_feature.png)![](/assets/4_setting_1.png)
+![](/assets/3_Createnewintegrate_feature.png)In the Settings page,we can enable/disable all the setting 
+
+
+
+![](/assets/4_setting_1.png)
+
+![](/assets/4_setting_1.png)
+
+![](/assets/4_setting_1.png)
+
+![](/assets/4_setting_1.png)
+
+![](/assets/4_setting_1.png)
 
 ![](/assets/4_setting_1.png)
 
