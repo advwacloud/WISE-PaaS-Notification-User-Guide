@@ -82,5 +82,3 @@ Add New number:
 
 Phone number example: 886911960999![](/assets/886newnumber.png)
 
-![](/assets/sendsuccess.png)
-
