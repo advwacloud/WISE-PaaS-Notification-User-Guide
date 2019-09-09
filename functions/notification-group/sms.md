@@ -14,7 +14,7 @@ Clicktell: [https://portal.clickatell.com/\#/](https://portal.clickatell.com/#/)
 
 1.Create new account to get started.![](/assets/0_portal.png)
 
-After register \(about10 minutes\) , we would receive the verification letter
+After register \(about 10 minutes\) , we would receive the verification letter
 
 And we choose "Get started with Single API for SMS only".
 
