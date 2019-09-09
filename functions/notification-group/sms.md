@@ -14,9 +14,12 @@ Clicktell: [https://portal.clickatell.com/\#/](https://portal.clickatell.com/#/)
 
 1.Create new account
 
+![](/assets/0_portal.png)
 
+After register for 10 minutes, we would receive the verification letter
 
+And we choose SMS function. 
 
-
+  
 
 
