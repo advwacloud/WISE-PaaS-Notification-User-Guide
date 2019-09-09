@@ -60,7 +60,7 @@ c. Sample SMS Text: type the message content what you want to received.
 
 Step 3: "Setup your account "
 
-Binding credit card \(we can pass this procedure, and used SMS successfully\)![](/assets/11_2ndsetupdone.png)
+Binding credit card \(we can pass this process, and used SMS successfully\)![](/assets/11_2ndsetupdone.png)
 
 Now to using the left side: SMS Manage test phones.
 
