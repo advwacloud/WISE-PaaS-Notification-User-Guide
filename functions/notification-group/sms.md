@@ -64,7 +64,7 @@ Binding credit card \(we can pass this procedure, and used SMS successfully\)![]
 
 Now to using the left side: SMS Manage test phones.
 
-SMS-&gt;Manage the phones including binding mobile detailed info \(including phone number, binding info, and mobile status.\) .![](/assets/12_Manage test phones.png)
+SMS -&gt; Manage the phones including binding mobile detailed info \(including phone number, binding info, and mobile status.\) .![](/assets/12_Manage test phones.png)
 
 API Key: the API Key where WISE-PaaS/Notification would used.  ![](/assets/13_SMS intrgrations.png)Reporting : check the report \(all messages sent and received history\)
 
