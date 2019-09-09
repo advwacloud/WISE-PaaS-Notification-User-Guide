@@ -32,7 +32,7 @@ Save integration.
 
 ![](/assets/5_save.png)
 
-After complete all setting, now Start the Step1 "Setup your test phones"
+After complete all setting, now Start the Step 1 "Setup your test phones"
 
 ![](/assets/6_setupPhone.png)
 
@@ -58,7 +58,7 @@ c. Sample SMS Text: type the message content what you want to received.
 
 ![](/assets/10_Create and test a SMS integration.png)
 
-Step3: "Setup your account "
+Step 3: "Setup your account "
 
 Binding credit card \(we can pass this procedure, and used SMS successfully\)![](/assets/11_2ndsetupdone.png)
 
