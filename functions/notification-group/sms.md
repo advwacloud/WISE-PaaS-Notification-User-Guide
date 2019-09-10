@@ -22,7 +22,7 @@ And we choose "Get started with Single API for SMS only".
 
 ![](/assets/2_Createnewintegrate.png)
 
-Taiwan and China had One-way message for choosed.
+Taiwan and China only One-way message option for choosed.
 
 ![](/assets/3_Createnewintegrate_feature.png)In the Settings page,we can enable/disable all the setting
 
