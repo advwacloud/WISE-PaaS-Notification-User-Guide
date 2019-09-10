@@ -16,6 +16,8 @@ DingTalk official website [https://www.dingtalk.com](https://www.dingtalk.com/)
 
 ### Create an application![](/assets/dingtalk_createapp1.png)
 
+### 
+
 ![](/assets/dingtalk_createapp2.png)
 
 ![](/assets/dingtalk_createapp3.png)  
@@ -26,6 +28,10 @@ DingTalk official website [https://www.dingtalk.com](https://www.dingtalk.com/)
 ![](/assets/dingtalk_appinfo1.png)
 
 ![](/assets/dingtalk_getsetting.png)
+
+![](/assets/通訊錄.png)
+
+
 
 Get UserId  
 ![](/assets/dingtalk_getuserId.png)
@@ -67,11 +73,7 @@ So, when you call `/send` API, you just need to send the following body, you wil
 
 ![](/assets/dingtalk_add_member2.png)
 
-
-
 ### Notice
 
 The messages have the same contents will be sent once. It's the limitation of DingTalk.
-
-
 
