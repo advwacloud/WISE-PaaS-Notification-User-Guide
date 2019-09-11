@@ -52,7 +52,7 @@ So, when you call **/send** API, you just need to send the following body, you w
 
 Support attachments on **/send** and **/directsend **API. You can send up to **10 MB** in attachments. If you have more than one attachment, they can't add up to more than **5 **attachments.
 
-### Add a Member
+### Notification - Add a Member
 
 ![](/assets/addnewnumber2.png)
 
