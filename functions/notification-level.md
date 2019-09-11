@@ -14,7 +14,9 @@ Users can customize the frequency and the number of notifications sent each time
 
 ### Level List
 
-![](/assets/levelconfig.png)
+![](/assets/Levellist.png)
+
+
 
 ### Create Level
 
