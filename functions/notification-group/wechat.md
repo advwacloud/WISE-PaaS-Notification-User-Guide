@@ -21,11 +21,11 @@ Support WeChat notifications.
 
 ![](/assets/wechat_business_add_application.png)
 
-3. 填入應用資料
+1. 填入應用資料
 
 ![](/assets/wechat_business_input_application.png)
 
-4. 取得agentId和agentSecret
+1. 取得agentId和agentSecret
 
 ![](/assets/wechat_business_application_info.png)
 
@@ -41,11 +41,11 @@ Support WeChat notifications.
 
 ![](/assets/wechat_business_add_user.png)
 
-2. 填入基本資料
+1. 填入基本資料
 
 ![](/assets/wechat_business_user_info.png)
 
-3. 取得userId
+1. 取得userId
 
 ![](/assets/wechat_business_userId.png)
 
@@ -55,11 +55,11 @@ Support WeChat notifications.
 
 ![](/assets/wechat_business_add_party.png)
 
-2. 填入基本資料
+1. 填入基本資料
 
 ![](/assets/wechat_business_party_info.png)
 
-3. 取得部門Id
+1. 取得部門Id
 
 ![](/assets/wechat_business_partyId.png)
 
@@ -69,20 +69,20 @@ Support WeChat notifications.
 
 ![](/assets/wechat_business_add_tag.png)
 
-2. 填入基本資料
+1. 填入基本資料
 
 ![](/assets/wechat_business_tag_info.png)
 
-3. 取得標籤Id
+1. 取得標籤Id
 
-![](/assets/wechat_business_tagId1.png)
+![](/assets/wechat_business_tagId1.png)  
 ![](/assets/wechat_business_tagId2.png)
 
 ### Group Level
 
 Choose a defined level according to your notification strategy. Default is "Critical" means notifying message in time.
 
-### Templcate
+### Template
 
 Support `Text` content. You can pre-define your message template here. When you call `/send` API, you don't need to send entire message string every time, just send the variables.
 
