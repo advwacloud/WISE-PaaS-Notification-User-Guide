@@ -31,8 +31,6 @@ DingTalk official website [https://www.dingtalk.com](https://www.dingtalk.com/)
 
 ![](/assets/通訊錄.png)
 
-
-
 Get UserId  
 ![](/assets/dingtalk_getuserId.png)
 
@@ -63,7 +61,7 @@ So, when you call `/send` API, you just need to send the following body, you wil
 ]
 ```
 
-### Add a Member
+### Notification - Add a Member
 
 1. Fill in AgentId, AppKey, and AppSecret
 
