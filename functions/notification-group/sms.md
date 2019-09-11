@@ -72,6 +72,12 @@ Make sure Integration API status is Activate \(or  function can't work successfu
 
 Report info:![](/assets/15_GenerateReport.png)Message ID detail: message detail \(number、message content\) ![](/assets/16_reportDetail.png)
 
+### Group Level
+
+Choose a defined level according to your notification strategy. Default is "Critical" means notifying message in time.
+
+
+
 ### Notification- Add a Member
 
 "+" icon to create SMS Group![](/assets/SMS_portal.png)
