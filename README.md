@@ -4,7 +4,7 @@
 
 WISE-PaaS/Notification is a messaging service that is primarily for integrated with SRPs.
 
-Now we support the following functions, and keep working to develop fully function.
+Now we support the following functions, and keep working to develop more fully function.
 
 * E-mail
 * LINE
