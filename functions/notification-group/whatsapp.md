@@ -86,9 +86,9 @@ Type into the Wassenger Token and fill in other information
 
 ![](/assets/whatsappmenu.png)
 
-![](/assets/notification_connected1.png)
+![](/assets/whatsapp_menu.png)
 
 Fill in the  member list info : setup the member who would receive the notification
 
-![](/assets/addnewnumber.png)
+![](/assets/whatsapp_add.png)
 
