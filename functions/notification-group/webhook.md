@@ -2,7 +2,7 @@
 
 ---
 
-Support Webhook 
+Support Webhook notification.
 
 We can actively call the web services or RESTful API provided by third-party system. Don't need to write any scripts !
 
