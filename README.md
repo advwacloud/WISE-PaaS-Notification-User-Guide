@@ -1,4 +1,4 @@
-# WISE-PaaS Notification User Guide
+# WISE-PaaS/Notification User Guide
 
 ---
 
