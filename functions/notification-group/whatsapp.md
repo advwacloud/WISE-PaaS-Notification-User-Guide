@@ -64,19 +64,19 @@ Device connected. Status would show 'Green'
 
 Note: If two devices exist at the same time, message would send to the device which register first
 
-![](/assets/device4.png)
+![](/assets/device1.png)
 
 Click the Device icon, get the Device ID
 
 By Device ID, message could send to the correct device.
 
-![](/assets/deviceid2.png)
+![](/assets/882313d1-4014-4f2b-a352-d6e16c8922d8.png)
 
 At the API keys to copy Token to Notification
 
 Security notice: Do not share or publicly expose the API keys with 3rd party users or websites!
 
-![](/assets/API_key.png)
+![](/assets/API_key2.png)
 
 ### Notification- WhatsApp
 
