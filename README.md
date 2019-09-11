@@ -13,8 +13,8 @@ Now we support the following functions, and keep working to develop fully functi
 * Dingtalk
 * WhatsApp
 * SMS
-* 3rd party APIs \(1\)
+* 3rd party APIs \*
 * Developing...
 
-\*\(1\): Developer can call third-party APIs through the WISE-PaaS Notification API to achieve instant message notification.
+\* Developer can call third-party APIs through the WISE-PaaS Notification API to achieve instant message notification.
 
