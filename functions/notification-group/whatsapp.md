@@ -78,7 +78,7 @@ Security notice: Do not share or publicly expose the API keys with 3rd party use
 
 ![](/assets/API_key2.png)
 
-### Notification- WhatsApp
+### Add a Member
 
 "+" icon to create WhatsApp Group
 
