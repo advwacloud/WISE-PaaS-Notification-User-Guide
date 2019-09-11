@@ -18,7 +18,7 @@ Users can classify the notified personnel through the Notification Group. For ex
 
 ### Duplicate a Notification Group
 
-Click the Duplicate button of the notification group which you want to duplicate, you will redirect to a new page.
+Click the Duplicate button of the notification group which you want to copy, you will redirect to a new page.
 
 The original notification info would be keep. User only needs to modify different parts.
 
