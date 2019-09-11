@@ -94,16 +94,11 @@ So, when you call /send API, you just need to send the following body, you will 
 
 ```
 [
-    {
-
-        "groupId": "yer8agvrjl4b",
-
-        "useTemplate": true,
-
-        "variables": {"name": "Steven"}
-
-    }
-
+  {
+    "groupId": "yer8agvrjl4b",
+    "useTemplate": true,
+    "variables": {"name": "Steven"}
+  }
 ]
 ```
 
