@@ -86,15 +86,13 @@ For example, we pre-define a sentence contains a variable {name}.
 
 ```
 [
-    {
+  {
     "groupId": "yer8agvrjl4b",
     "useTemplate": true,
     "variables": {"name": "Steven"}
   }
 ]
 ```
-
-  
 
 ### 
 
