@@ -24,7 +24,9 @@ Click the Duplicate button of the notification group you want to duplicate, you 
 
 ### Edit a Notification Group
 
-Click the notification group name you want to modify.
+Click the notification group name you want to modify.![](/assets/Notification_editGroup.png)
+
+![](/assets/Notification_editGroup.png)
 
 ![](/assets/Notification_editGroup.png)
 
