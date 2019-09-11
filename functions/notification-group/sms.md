@@ -78,7 +78,7 @@ Choose a defined level according to your notification strategy. Default is "Crit
 
 ### Template
 
-Support Text content. You can pre-define your message template here. When you call /send API, you don't need to send entire message string every time, just using the variables.
+Support Text content. You can pre-define your message template here. When you call `/send` API, you don't need to send entire message string every time, just using the variables.
 
 For example, we pre-define a sentence contains a variable {name}.
 
