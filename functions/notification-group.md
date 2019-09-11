@@ -14,7 +14,7 @@ Users can classify the notified personnel through the Notification Group. For ex
 * Service Setting: According to Service Type, please refer to the corresponding chapter.
 * Member List: The list of notified persons, First Name and Last Name are used for identification, and the third field is different according to Service Type. Please refer to the corresponding chapter.
 
-![](/assets/notification_group.png)
+![](/assets/Notification_email.png)
 
 ### Duplicate a Notification Group
 
@@ -25,8 +25,6 @@ Click the Duplicate button of the notification group you want to duplicate, you 
 ### Edit a Notification Group
 
 Click the notification group name you want to modify.
-
-
 
 ![](/assets/notification_edit2.png)
 
