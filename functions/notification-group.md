@@ -26,7 +26,13 @@ Click the Duplicate button of the notification group you want to duplicate, you 
 
 Click the notification group name you want to modify
 
-And at the upper right side: we support search function, user can using the keyword to search Notification Group.![](/assets/Notification_editGroup.png)![](/assets/Notification_email2.png)
+![](/assets/Notification_editGroup_0911.png)![](/assets/Notification_email2.png)
+
+### Search Notification Group
+
+At the upper right side: we support search function, user can using the keyword to search Notification Group
+
+![](/assets/searchbox_s.png)
 
 ### Delete a Notification Group
 
