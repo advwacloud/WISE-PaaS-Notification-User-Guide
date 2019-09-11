@@ -29,7 +29,7 @@ HEADER setting: add Authorization
 
 ![](/assets/webhook_get2.PNG)
 
-Variables:
+**Variables:**
 
 If the value of PARAMETERS, HEADERS, and BODY is dynamic, you can use {} to mark it as a variable. For example, {index} is a variable. When you call Notification API /api/Groups/send, the parameter "message" of request must be with JSON format and contains key "index", just like {"index": 1}.
 
