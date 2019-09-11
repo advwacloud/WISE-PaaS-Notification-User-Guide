@@ -4,8 +4,6 @@
 
 Support DingTalk notifications.
 
-### 
-
 ### Register an account
 
 DingTalk official website [https://www.dingtalk.com](https://www.dingtalk.com/)
@@ -41,7 +39,7 @@ Get DepartmentId
 
 Choose a defined level according to your notification strategy. Default is "Critical" means notifying message in time.
 
-### Templcate
+### Template
 
 Support `Text` content. You can pre-define your message template here. When you call `/send` API, you don't need to send entire message string every time, just send the variables.
 
