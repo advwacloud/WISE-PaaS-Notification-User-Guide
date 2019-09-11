@@ -39,7 +39,7 @@ Support WeChat notifications.
 
 1. 點選"添加成員"
 
-![](/assets/wechat_business_add_user.png)
+![](/assets/wechataddnew.png)
 
 1. 填入基本資料
 
