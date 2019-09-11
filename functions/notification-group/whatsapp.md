@@ -92,6 +92,23 @@ For example, we pre-define a sentence contains a variable {name}.
 
 So, when you call /send API, you just need to send the following body, you will receive a WeChat notification with entire message.
 
+```
+[
+{
+
+"groupId": "yer8agvrjl4b",
+
+"useTemplate": true,
+
+"variables": {"name": "Steven"}
+
+}
+
+]
+```
+
+ 
+
 
 
 ### 
