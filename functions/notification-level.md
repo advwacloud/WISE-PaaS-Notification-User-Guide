@@ -2,7 +2,7 @@
 
 ---
 
-Users can customize the frequency and the number of notifications send each time according to their own needs. The default level is "Critical" that is sent instantly.
+Users can customize the frequency and the number of notifications send each time according to their needs. The default level is "Critical" that is sent instantly.
 
 ### Level Parameters {#webhook-parameters}
 
