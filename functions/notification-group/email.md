@@ -54,7 +54,7 @@ Support attachments on **/send** and **/directsend **API. You can send up to **1
 
 ### Add a Member
 
-![](/assets/Email_demo_add.png)
+![](/assets/addnewnumber2.png)
 
 You can assign the recipient type \(To/CC/BCC\) to a new member.
 
