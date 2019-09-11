@@ -78,6 +78,14 @@ Security notice: Do not share or publicly expose the API keys with 3rd party use
 
 ![](/assets/API_key2.png)
 
+### Group Level
+
+Choose a defined level according to your notification strategy. Default is "Critical" means notifying message in time.
+
+### Template
+
+### 
+
 ### Notification - Add a Member
 
 "+" icon to create WhatsApp Group
