@@ -34,5 +34,5 @@ Click the notification group name you want to modify.
 
 Check the notification group that you want to delete, then click the delete button on the upper right to delete it.
 
-![](/assets/notification_delete.png)
+![](/assets/deleteicon.png)
 
