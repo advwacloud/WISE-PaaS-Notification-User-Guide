@@ -76,7 +76,27 @@ Report info:![](/assets/15_GenerateReport.png)Message ID detail: message detail 
 
 Choose a defined level according to your notification strategy. Default is "Critical" means notifying message in time.
 
+### Template
 
+Support Text content. You can pre-define your message template here. When you call /send API, you don't need to send entire message string every time, just send the variables.
+
+For example, we pre-define a sentence contains a variable {name}.
+
+![](/assets/Template2.png)So, when you call /send API, you just need to send the following body, you will receive a WeChat notification with entire message.
+
+```
+[
+    {
+    "groupId": "yer8agvrjl4b",
+    "useTemplate": true,
+    "variables": {"name": "Steven"}
+  }
+]
+```
+
+  
+
+### 
 
 ### Notification- Add a Member
 
