@@ -2,15 +2,15 @@
 
 ---
 
-Support SMS, we used Clicktell to implement.
+Support SMS, we used Clickatell to implement.
 
-Clikctell is SMS 3rd party API, and we choose Clicktell to Support SMS notification function.
+Clickatell  is SMS 3rd party API, and we choose Clickatell to Support SMS notification function.
 
 ### Website
 
-Clicktell: [https://portal.clickatell.com/\#/](https://portal.clickatell.com/#/)
+Clickatell : [https://portal.clickatell.com/\#/](https://portal.clickatell.com/#/)
 
-### Clicktell-SMS API
+### Clickatell -SMS API
 
 1.Create new account to get started.![](/assets/0_portal.png)
 
