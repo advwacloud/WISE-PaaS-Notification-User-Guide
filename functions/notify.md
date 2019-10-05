@@ -9,27 +9,17 @@ Currently, provide user two way of notification:
 
 ### API
 
-Please refer chapter API.
+Please refer API Document on Notification Portal.
 
 ### MQTT
 
-MQTT topic:
+Topic:
 
 ```
 /wisepaas/notify/send
 ```
 
-json format:
+Payload:
 
-```
-[
-  {
-    "groupId": "string",
-    "message": "string",
-    "subject": "string"
-  }
-]
-```
-
-
+You can follow /send API
 
