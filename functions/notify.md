@@ -9,7 +9,7 @@ Currently, provide user two way of notification:
 
 ### API
 
-Please refer API Document on Notification Portal.
+Please refer the API Document on Notification Portal.
 
 ### MQTT
 
@@ -21,5 +21,5 @@ Topic:
 
 Payload:
 
-You can follow /send API
+You can follow the request format of v1.5 `/send` API. Please refer the API Document on Notification Portal.
 
