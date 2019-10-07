@@ -98,8 +98,6 @@ For example, we pre-define a sentence contains a variable {name}.
 
 ### Notification- Add a Member
 
-"+" icon to create SMS Group![](/assets/SMS_portal.png)
-
 Type into the Clicktell API and fill in other information
 
 ![](/assets/editscreen.png)
