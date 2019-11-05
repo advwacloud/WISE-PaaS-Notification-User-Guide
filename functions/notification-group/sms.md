@@ -82,7 +82,7 @@ Support `Text` content. You can pre-define your message template here. When you 
 
 For example, we pre-define a sentence contains a variable {name}.
 
-![](/assets/Template2.png)So, when you call `/send` API, you just need to send the following body, you will receive a WeChat notification with entire message.
+![](/assets/Template2.png)So, when you call `/send` API, you just need to send the following body, you will receive a notification with entire message.
 
 ```
 [
