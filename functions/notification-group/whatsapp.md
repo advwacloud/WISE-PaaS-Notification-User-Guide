@@ -90,7 +90,7 @@ For example, we pre-define a sentence contains a variable {name}.
 
 ![](/assets/Template2.png)
 
-So, when you call `/send` API, you just need to send the following body, you will receive a WeChat notification with entire message.
+So, when you call `/send` API, you just need to send the following body, you will receive a notification with entire message.
 
 ```
 [
