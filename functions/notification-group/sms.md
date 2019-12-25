@@ -1,4 +1,4 @@
-# Notification - SMS
+# Notification - SMS \(Clickatell\)
 
 ---
 
