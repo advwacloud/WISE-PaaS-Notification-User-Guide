@@ -20,19 +20,23 @@ Clickatell : [https://clickatell.com](https://console.wassenger.com/)
 
 * Apply WhatsApp
 
-  ![](/assets/擷取.PNG)
+  ![](/assets/whatsapp_clickatell_apply.PNG)
 
-* Then fill the form content ![](/assets/擷取1.PNG)
+* Then fill the form content
+
+![](/assets/whatsapp_clickatell_fillform.PNG)
 
 * When you complete the application, you will receive a mail from Clickatell, Clickatell will verify the company's website and facebook business ID. \(About one day Clickatell will response in e-mail \)
 
 * Before received the status is pending.
 
-![](/assets/擷取2.PNG)
+![](/assets/whatsapp_clickatell_status.PNG)
 
 * If this apply is success, you can use the WhatsApp API key to send test.
 
-![](/assets/complete.png)
+![](/assets/whatsapp_clickatell_api.PNG)
+
+
 
 ### Group Level
 
