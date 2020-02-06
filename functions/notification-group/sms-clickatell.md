@@ -36,7 +36,7 @@ Save integration.
 
 ![](/assets/5_save.png)
 
-Make sure Integration API status is Activate \(or  function can't work successfully\)
+Make sure the stauts of your integration is Activated.
 
 ![](/assets/13_SMS_intrgrations.png)
 
