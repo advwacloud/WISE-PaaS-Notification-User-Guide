@@ -2,6 +2,8 @@
 
 ---
 
+<font color="#dd0000" size=2>Wassenger service is already terminatd. You can use Clickatell instead.</font><br />
+
 Support WhatsApp, we used Wassenger to implement.
 
 Wassenger is WhatsApp Cloud API, and we choose Wassenger for support WhatsApp notification function

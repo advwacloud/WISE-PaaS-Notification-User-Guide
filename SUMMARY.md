@@ -10,7 +10,7 @@
     * [DingTalk](functions/notification-group/dingtalk.md)
     * [WhatsApp \(Wassenger\)](functions/notification-group/whatsapp-wassenger.md)
     * [WhatsApp \(Clickatell\)](functions/notification-group/whatsapp-clickatell.md)
-    * [SMS \(Clickatell\)](functions/notification-group/sms-wassenger.md)
+    * [SMS \(Clickatell\)](functions/notification-group/sms-clickatell.md)
   * [Notification Level](functions/notification-level.md)
   * [Notify](functions/notify.md)
   * [API](functions/api.md)
