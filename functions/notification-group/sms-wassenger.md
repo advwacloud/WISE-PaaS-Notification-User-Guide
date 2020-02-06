@@ -20,7 +20,9 @@ And we choose "Get started with Single API for SMS only".
 
 ![](/assets/1_SMSonly.png)
 
-![](/assets/2_Createnewintegrate.png)
+Sandbox environment allows only 3 test phones at most. Production environment is unlimited.
+
+![](/assets/integration1.png)
 
 Taiwan and China only One-way message option for choosed.
 
