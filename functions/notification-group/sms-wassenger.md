@@ -26,7 +26,7 @@ Sandbox environment allows only 3 test phones at most. Production environment is
 
 Taiwan and China only One-way message option for choosed.
 
-![](/assets/3_Createnewintegrate_feature.png)In the Settings page,we can enable/disable all the setting
+![](/assets/3_Createnewintegrate_feature.png)In the Settings page, we can enable/disable all the setting
 
 ![](/assets/4_setting_1.png)
 
