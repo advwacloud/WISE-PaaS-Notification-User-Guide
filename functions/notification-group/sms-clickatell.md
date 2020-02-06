@@ -28,7 +28,7 @@ Taiwan and China only One-way message option for choosed.
 
 ![](/assets/3_Createnewintegrate_feature.png)
 
-It is recommended to enable message parts if your message is longer.
+It is recommended to enable message parts and at least choose 2 part messages if your message is longer.
 
 ![](/assets/4_setting_1.png)
 
